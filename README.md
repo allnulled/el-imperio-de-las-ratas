@@ -4,6 +4,7 @@
 
 - [Parte 1: Conociendo a un granjero](./README.PARTE1.md)
 - [Parte 2: Las pirámides, los cercos, el oro y la mierda](./README.PARTE2.md)
+- [Parte 3: (En proceso)](./README.PARTE3.md)
 
 ### Sinopsis
 
