@@ -852,3 +852,8 @@ Preferiría tener una máquina y hablar con ella, que enfrentarme a estos yonkis
 
 Ojalá. De verdad. Si no hoy, pronto. Por ti. Porque, en general, eres una persona, y das puto asco y puto miedo. Y yo hablo mal, pero tú piensas mal, actúas mal, y aún y así, te financian. Te financian porque esto es el infierno, y tu conducta es la propia. Así que si muero, pues bien muerto habré. Ojalá. De corazón, ojalá.
 
+-----
+
+Finalemente, creo que los secuoyas son más altos que las palmeras de Cocora. Pero estas son más bonitas, y limpias. Es como si... bueno, ChatGPT puede ser la hostia, pero si no puedes seguirle el hilo, si no puedes programar con él, pues será muy tocho, pero el tonto siempre has sido tú. Así que el secuoya, para mí, no vale. Porque el tonto eres tú, el que tiene que aprender lógica, eres tú. Yo ya sé que un procesador puede ir muy rápido. La cosa es cómo usamos ese procesador. Ese, y tantos otros recursos. Y eso depende de tu lógica. Y ya está. Por eso, las palmeras de Cocora, que puedes seguirle el hilo claramente. Otros árboles, te van a liar. Este, no. Este, es limpio, es claro. Pues esta es, un poco, la metáfora. Y claro, Palo Alto, donde dicen que pasan tantos datos nuestros. Pues eso.
+
+Comed, ratas, comed. Comed vuestro queso roñoso.
