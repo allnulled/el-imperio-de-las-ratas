@@ -1,4 +1,4 @@
-![Portada](./Cocora.png)
+![Portada](./los-palos-naturales-mas-altos.png)
 
 
 
@@ -104,7 +104,7 @@ LA VERDAD, IMPORTA. Por eso, ¿Qué es la lógica? Ahí te va.
 
 Pero bueno. Si lo he entendido bien, tú funcionarías con una droga con la cual, si no te caigo bien, no entiendes, no empatizas, no nada. Así que... eso, la verdad. Tus cojones. Pues los míos también. Qué vamos a hacer, no puedo, yo no puedo, no puedo comportarme para caerte bien. No es que ni no quiera, ni no sepa, es que no puedo comportarme así, la verdad. Es decir, puedes verlo como una enfermedad. Pero a mí, el grupo *humans*, son peligrosos. Me dan miedo, es así, realmente, estoy amenazado por mi propia especie. Cosa que discuto, porque me siento como un toro, siendo toreado, y al toro, no le tratan como un igual, no ponen a una persona donde el toro. Pues yo... me siento un poco toro. Por eso, porque me están toreando. Igual, desde luego, no. El asco y todo eso me supera. Yo no puedo comportarme para caerte bien. Sé que eres un yonqui de eso, oxitocina, amor, no sé. Yo un poco también, pienso, porque si no, no me toreas. Pero me autoquiero también, cosa que no asocio a la oxitocina solamente. Es decir, independientemente de que me des amor o comida, yo me quiero. Pero al final, tengo que convivir con gente que es como tú, yonkis de amor, gente así, que no separa número de cultura. Así que bueno, me quiero tanto, que igual lo mejor es matarse.
 
-Sabes que la van a tener cara. Y que es solo un parche. Lo que están haciendo, en general, da puto asco, la verdad. Igual si pillas pasta, igual. Y ni lo creo, la verdad. Ni eso creo. Porque es cierto, teniendo pasta, te sientes pobre también. Es tristísimo. Ni todos, ni siempre. Pero que en parte, es una mierda, lo reconozco, he tenido pasta, y doy así en plan ONGs. Pero qué va. Te sientes pobre siempre. Pero no para reprochárselo a los legisladores, eso no. En el camino.
+Sabes que la van a tener cara. Y que es solo un parche. Lo que están haciendo, en general, da puto asco, la verdad. Igual si pillas pasta, igual. Y ni lo creo, la verdad. Ni eso creo. Porque es cierto, teniendo pasta, te sientes pobre también. Es tristísimo. Ni todos, ni siempre. Pero que en parte, es una mierda, lo reconozco, he tenido pasta, y doy así en plan ONGs, aunque no creo que sea la solución, di un tiempo, pero qué va, la solución es eso, constitución. Pero qué va. Y te sientes pobre siempre, cuando tienes. Pero no para reprochárselo a los legisladores, eso no. En el camino.
 
 Verdad, lógica. Ahí estamos, preocupándonos todavía.
 
@@ -834,3 +834,21 @@ Lenguaje natural:
 
 > A es igual o es un superconjunto de B.
 A es igual o incluye a B.
+
+-----
+
+Bueno, más allá de esto, que sería una base, está directamente JavaScript, Castelog, o cualquier lenguaje de programación, que tiene todo esto, y más. Así de fácil. En filosofía, la carrera universitaria de Filosofía, hablan de lógica. Pero no de programación, ni de lenguajes. Y ya está, fin, yo estudié filosofía, y la búsqueda de la verdad, desde allí, empieza aquí, en la programación. En Filosofía te enseñan a parsear lenguaje natural con palabras muy abstractas, y cuando te pones a hablar, en plan filosófico, lo normal es que digas muchas palabras para decir realmente muy pocas cosas. Con muchos matices, y que requieren mucha capacidad para interpretar, porque son mensajes largos. Pero, básicamente, poca lógica, mucha palabra. Como ahora los políticos. O la ley. La ley de los políticos. Y todo así.
+
+En resumen, que yo me planto aquí. Lo que sigue es:
+
+1. Ir ampliando la lista, con nuevos elementos lógicos.
+1. Luego, además, ir ampliando las expresiones de lenguaje natural que denotan o implican de alguna forma a estos elementos ya expuestos inicialmente, y los otros con los que se pueda ampliar la lista.
+1. Luego, además, poner su equivalente en un lenguaje de programación, sea [Castelog](https://github.com/allnulled/castelog), o sea JavaScript, o Java, o C/C++, o el que sea.
+1. Finalmente, crear un programa, basado en un parser de lenguaje natural, como el que se usa en [core-nlp-wrapper](https://github.com/allnulled/core-nlp-wrapper). Integrar las expresiones listadas en el punto 2 en el parser, para que automáticamente integre, de forma lógica, las expresiones naturales (o en lenguaje natural) que denotan lógica, para así ir creando una máquina que «entienda y respete» la lógica, de forma consciente.
+
+Pero es igual, la trampa en el ámbito de la informática ya la sabíamos: que siempre te tienes que estar actualizando, decían. No, es que básicamente, está todo hecho. Y se te mete en una puta historia de mierda, donde con la escusa del capitalismo (tan pésimamente) intervenido (que si mercado libre, que si espionaje industrial, que si la privatización de la educación tanto preuniversitaria como universitaria, que si patentes, que si secretos empresariales, que si cursos de pago, que si industria de la educación y formación, que si gente queriendo subir de rango o mantenerse en un puesto, que si bla bla bla) pues te mantienen, directamente, fuera de juego, en manos de unas personas que están deseando que te mueras o que sufras, o yo qué sé. Sin trabajo, porque aunque sepas hacer lo que piden, no te llaman y ya está. O directamente te invisibilizan los portales de empleo principales, y fuera. O te pinchan el correo. No importa, hay mil formas. Mil. Mil formas para joderte. En última instancia, la empresa no tiene por qué aceptarte, ni el cliente por qué venir. Fin del juego, todo es la puta piedra, y no sabes si eras un experimento, si eras un tonto con cámara oculta, no sabes. No sabes, sabes que estás jodido, y que siempre pueden joderte más. Pero ya está, no mucho más. Que nadie hace nada. Que a los demás, en general, les funciona este sistema de mierda que te deja en pelotas, al menos lo suficiente como para no estar como tú. En fin.
+
+Preferiría tener una máquina y hablar con ella, que enfrentarme a estos yonkis de mierda. Y es, un poco, lo que estoy esbozando: el camino para continuar. Esta puta peña está puto enferma, pero hasta que no enloquezcas tú, no pasará nada. Tienen la puta pasta. A su enfermedad mental, la financian. A la mía, la ahogan con la suya. Ratas de mierda... y bueno, eso. Que siga otro, si quiere, yo no sé. Ojalá hoy me muera y se acabe esta puta mierda.
+
+Ojalá. De verdad. Si no hoy, pronto. Por ti. Porque, en general, eres una persona, y das puto asco y puto miedo. Y yo hablo mal, pero tú piensas mal, actúas mal, y aún y así, te financian. Te financian porque esto es el infierno, y tu conducta es la propia. Así que si muero, pues bien muerto habré. Ojalá. De corazón, ojalá.
+
