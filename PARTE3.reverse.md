@@ -1,6 +1,67 @@
 
 
----
+-----
+
+#### Índice
+
+1. [Contextualización](contextualización)
+1. [La lógica](la-lógica)
+    1. [Definición de lógica](definición-de-lógica)
+    1. [Definición de inferencia](definición-de-inferencia)
+    1. [Definición de falacia](definición-de-falacia)
+    1. [Definición de paradoja](definición-de-paradoja)
+    1. [Definición de sofisma](definición-de-sofisma)
+    1. [Definición de proposición](definición-de-proposición)
+    1. [Definición de premisa](definición-de-premisa)
+    1. [Definición de conectiva lógica](definición-de-conectiva-lógica)
+    1. [Definición de sentencia atómica](definición-de-sentencia-atómica)
+    1. [Definición de sentencia molecular](definición-de-sentencia-molecular)
+    1. [Definición de lógica de clases](definición-de-lógica-de-clases)
+    1. [Conectiva 1. Condicional.](conectiva-1.-condicional.)
+    1. [Conectiva 2. Condicional bidireccional.](conectiva-2.-condicional-bidireccional.)
+    1. [Conectiva 3. Negación.](conectiva-3.-negación.)
+    1. [Conectiva 4. Conjunción.](conectiva-4.-conjunción.)
+    1. [Conectiva 5. Disyunción.](conectiva-5.-disyunción.)
+    1. [Conectiva 6. Disyunción exclusiva.](conectiva-6.-disyunción-exclusiva.)
+    1. [Conectiva 7. Tautología.](conectiva-7.-tautología.)
+    1. [Conectiva 8. Contradicción.](conectiva-8.-contradicción.)
+    1. [Conectiva 9. Cuantificador universal.](conectiva-9.-cuantificador-universal.)
+    1. [Conectiva 10. Cuantificador existencial.](conectiva-10.-cuantificador-existencial.)
+    1. [Conectiva 11. Cuantificador de unicidad.](conectiva-11.-cuantificador-de-unicidad.)
+    1. [Conectiva 12. Definición.](conectiva-12.-definición.)
+    1. [Conectiva 13. Grupo precedente.](conectiva-13.-grupo-precedente.)
+    1. [Conectiva 14. Deducción.](conectiva-14.-deducción.)
+    1. [Conectiva 15. Deducción semántica.](conectiva-15.-deducción-semántica.)
+    1. [Elemento 16. Clase universal](elemento-16.-clase-universal)
+    1. [Elemento 17. Clase vacía](elemento-17.-clase-vacía)
+    1. [Elemento 18. Individuos, objetos, elementos o instancias](elemento-18.-individuos,-objetos,-elementos-o-instancias)
+    1. [Operador 19. Pertenencia](operador-19.-pertenencia)
+    1. [Operador 20. No pertenencia](operador-20.-no-pertenencia)
+    1. [Operador 21. Contenencia](operador-21.-contenencia)
+    1. [Operador 22. No contenencia](operador-22.-no-contenencia)
+    1. [Operador 23. Proporcionalidad](operador-23.-proporcionalidad)
+    1. [Operador 24. Intersección](operador-24.-intersección)
+    1. [Operador 25. Unión](operador-25.-unión)
+    1. [Operador 26. Por consiguiente](operador-26.-por-consiguiente)
+    1. [Operador 27. Similitud](operador-27.-similitud)
+    1. [Operador 28. No similitud](operador-28.-no-similitud)
+    1. [Operador 29. Igualdad aproximada](operador-29.-igualdad-aproximada)
+    1. [Operador 30. Aproximación](operador-30.-aproximación)
+    1. [Operador 31. Igualdad](operador-31.-igualdad)
+    1. [Operador 32. Identidad](operador-32.-identidad)
+    1. [Operador 33. Subconjunto](operador-33.-subconjunto)
+    1. [Operador 34. No subconjunto](operador-34.-no-subconjunto)
+    1. [Operador 35. Superconjunto](operador-35.-superconjunto)
+    1. [Operador 37. Subconjunto o igualdad](operador-37.-subconjunto-o-igualdad)
+    1. [Operador 38. Superconjunto o igualdad](operador-38.-superconjunto-o-igualdad)
+    1. [Respuesta final: ¿Qué es la lógica?](respuesta-final-¿qué-es-la-lógica?)
+    1. [Fuentes](fuentes)
+1. [Cómo continuaría la cosa](cómo-continuaría-la-cosa)
+1. [Aclaraciones (1)](aclaraciones-1)
+
+-----
+
+### Contextualización
 
 Aquí empieza la 3ª parte.
 
@@ -115,6 +176,8 @@ La lógica empalma con las matemáticas, pues no sé por qué, la verdad. Pero l
 
 Hay gente que se ha currado intentar explicar por qué lógica y números. Pero digamos, en la época de Aristóteles, números, ya había. Fue él el que empezó a hablar de lógica. Y te puedes esperar que alguien ya estuviera dando nociones antes, claro. Pero bueno, te ha llegado Aristóteles, pues bueno, pues ese. No importa quién, importa que lo empezó. Y que ahora, los ordenadores se fundamentan en eso. En cierta forma, en ciertos sentidos. Es igual.
 
+A ver, sí que sé, más o menos, cómo se empalman. Pero es complicado y no tengo todos los detalles de memoria. Pero bueno, en informática, está el lenguaje ensamblador. Y los fundamentos electrónicos de este lenguaje, que es el más primitivo, no te los puedo explicar, porque nunca entré en esos temas. Pero bueno, crean un circuito electrónico que puede cambiar el estado de bits (0 o 1). A esos bits, le dan unos significados. Y además, están los registros de la CPU. Y luego, los opcodes. Y hay un juego con los opcodes para hacer llamadas a funciones, y cosas así. Pero bueno... no te lo puedo explicar muy bien. El caso es que, de estados en memoria de ceros y unos, consiguen llegar a hacer operaciones matemáticas. Entonces, es como que estás enlazando lógica (0 o 1, mentira o verdad), con matemáticas (sumas, restas, multiplicaciones, divisiones). Lo que viene a decir es: *desde la lógica, puedes conquistar las matemáticas*. Yo lo expreso como que lógica y matemáticas, son lo mismo. Porque es verdad, son lo mismo: causalidad. Pero bueno, eso no importa tanto.
+
 Lo que queda, es eso, es lógica, verdad, números, programación.
 
 Y la lógica solo es como el vehículo. Luego están los datos. Pero bueno, esto te hace ser consciente de la falta de datos, precisamente, tanto de política como de economía. Ya está. A partir de ahí, me justifico hasta estar loco.
@@ -123,75 +186,23 @@ No sé, da igual. No te voy a caer bien, está claro. Te tengo que gustar, esa e
 
 ### La lógica
 
-**Índice:**
+A continuación se definen una serie de conceptos relacionados con la lógica. Sinceramente, es un tostón, y eso que es breve, pero... es lo que hay.
 
-1. [La lógica](la-lógica)
-    1. [Definición de lógica](definición-de-lógica)
-    1. [Definición de inferencia](definición-de-inferencia)
-    1. [Definición de falacia](definición-de-falacia)
-    1. [Definición de paradoja](definición-de-paradoja)
-    1. [Definición de sofisma](definición-de-sofisma)
-    1. [Definición de proposición](definición-de-proposición)
-    1. [Definición de premisa](definición-de-premisa)
-    1. [Definición de conectiva lógica](definición-de-conectiva-lógica)
-    1. [Definición de sentencia atómica](definición-de-sentencia-atómica)
-    1. [Definición de sentencia molecular](definición-de-sentencia-molecular)
-    1. [Definición de lógica de clases](definición-de-lógica-de-clases)
-    1. [Conectiva 1. Condicional.](conectiva-1.-condicional.)
-    1. [Conectiva 2. Condicional bidireccional.](conectiva-2.-condicional-bidireccional.)
-    1. [Conectiva 3. Negación.](conectiva-3.-negación.)
-    1. [Conectiva 4. Conjunción.](conectiva-4.-conjunción.)
-    1. [Conectiva 5. Disyunción.](conectiva-5.-disyunción.)
-    1. [Conectiva 6. Disyunción exclusiva.](conectiva-6.-disyunción-exclusiva.)
-    1. [Conectiva 7. Tautología.](conectiva-7.-tautología.)
-    1. [Conectiva 8. Contradicción.](conectiva-8.-contradicción.)
-    1. [Conectiva 9. Cuantificador universal.](conectiva-9.-cuantificador-universal.)
-    1. [Conectiva 10. Cuantificador existencial.](conectiva-10.-cuantificador-existencial.)
-    1. [Conectiva 11. Cuantificador de unicidad.](conectiva-11.-cuantificador-de-unicidad.)
-    1. [Conectiva 12. Definición.](conectiva-12.-definición.)
-    1. [Conectiva 13. Grupo precedente.](conectiva-13.-grupo-precedente.)
-    1. [Conectiva 14. Deducción.](conectiva-14.-deducción.)
-    1. [Conectiva 15. Deducción semántica.](conectiva-15.-deducción-semántica.)
-    1. [Elemento 16. Clase universal](elemento-16.-clase-universal)
-    1. [Elemento 17. Clase vacía](elemento-17.-clase-vacía)
-    1. [Elemento 18. Individuos, objetos, elementos o instancias](elemento-18.-individuos,-objetos,-elementos-o-instancias)
-    1. [Operador 19. Pertenencia](operador-19.-pertenencia)
-    1. [Operador 20. No pertenencia](operador-20.-no-pertenencia)
-    1. [Operador 21. Contenencia](operador-21.-contenencia)
-    1. [Operador 22. No contenencia](operador-22.-no-contenencia)
-    1. [Operador 23. Proporcionalidad](operador-23.-proporcionalidad)
-    1. [Operador 24. Intersección](operador-24.-intersección)
-    1. [Operador 25. Unión](operador-25.-unión)
-    1. [Operador 26. Por consiguiente](operador-26.-por-consiguiente)
-    1. [Operador 27. Similitud](operador-27.-similitud)
-    1. [Operador 28. No similitud](operador-28.-no-similitud)
-    1. [Operador 29. Igualdad aproximada](operador-29.-igualdad-aproximada)
-    1. [Operador 30. Aproximación](operador-30.-aproximación)
-    1. [Operador 31. Igualdad](operador-31.-igualdad)
-    1. [Operador 32. Identidad](operador-32.-identidad)
-    1. [Operador 33. Subconjunto](operador-33.-subconjunto)
-    1. [Operador 34. No subconjunto](operador-34.-no-subconjunto)
-    1. [Operador 35. Superconjunto](operador-35.-superconjunto)
-    1. [Operador 37. Subconjunto o igualdad](operador-37.-subconjunto-o-igualdad)
-    1. [Operador 38. Superconjunto o igualdad](operador-38.-superconjunto-o-igualdad)
-    1. [Respuesta final: ¿Qué es la lógica?](respuesta-final-¿qué-es-la-lógica?)
-    1. [Fuentes](fuentes)
-
-### Lógica
+#### Definición de lógica
 
 Según Wikipedia, la lógica [1] se define como sigue:
 
-> La lógica es la ciencia formal y rama tanto de la filosofía como de las matemáticas que estudia los principios de la demostración y lainferencia válida,​ las falacias, las paradojasy la noción de verdad.
+> La lógica es la ciencia formal y rama tanto de la filosofía como de las matemáticas que estudia los principios de la demostración y la inferencia válida,​ las falacias, las paradojas y la noción de verdad.
 
 
-### Inferencia
+#### Definición de inferencia
 
 En cuanto a inferencia [2] se refiere:
 
 > La inferencia es el proceso por el cual se derivan conclusiones a partir de premisas. Cuando una proposición se sigue de otras de ese modo, se dice que éstas implican aquélla.
 
 
-### Falacia
+#### Definición de falacia
 
 En cuanto a falacia [3] se refiere:
 
@@ -201,23 +212,23 @@ En cuanto a falacia [3] se refiere:
 - Definición de «inferencia» de [https://es.wikipedia.org/wiki/Inferencia](https://es.wikipedia.org/wiki/Inferencia).
 - Definición de «falacia» de [https://es.wikipedia.org/wiki/Falacia](https://es.wikipedia.org/wiki/Falacia).
 
-### Paradoja
+#### Definición de paradoja
 
 En cuanto a paradoja [4] se refiere:
 
 > Una paradoja (del latín paradoxa, ‘lo contrario a la opinión común’) o antilogía es una idea extraña opuesta a lo que se considera verdadero a la opinión general.​ También se considera paradoja a una proposición en apariencia falsa o que infringe el sentido común, pero no conlleva una contradicción lógica, en contraposición a un sofisma que solo aparenta ser un razonamiento válido.
 
-### Sofismo
+#### Definición de sofismo
 
 La paradoja y el sofismo [5] se diferencian, por tanto, en lo siguiente:
 
 > Un sofisma es una refutación o silogismo aparente, con objetivo de defender algo falso confundiendo al oyente o interlocutor, mediante una argucia en la argumentación. Una falacia lógica es una proposiciónpresentada como verdadera en una afirmación, pero que solo lo es aparentemente.
 
-Por tanto: la paradoja es una proposición que parece falsapero no es ilógica, mientras que el sofisma es una proposición que parece verdadera pero sí es ilógica.
+Por tanto: la paradoja es una proposición que parece falsa pero no es ilógica, mientras que el sofisma es una proposición que parece verdadera pero sí es ilógica.
 
 O más simple todavía: la paradoja es una proposición que parece mentira pero es verdad, y el sofisma es una proposición que parece verdad pero es mentira.
 
-### Proposición
+#### Definición de proposición
 
 En cuanto a proposición [6] se refiere:
 
@@ -225,13 +236,13 @@ En cuanto a proposición [6] se refiere:
 Los objetos de las creencias y de otras actitudes proposicionales.
 El significado de las oraciones declarativas o enunciativas, como <el Sol es una estrella>.
 
-> Intuitivamente una proposición expresa un contenido semántico a la que bajo cierto procedimiento acordado o prescrito es posible asignarle un valor de verdad (usualmente “verdadero” o “falso”, aunque en lógica formal se admiten otros valores de verdad diferentes).2​
+> Intuitivamente una proposición expresa un contenido semántico a la que bajo cierto procedimiento acordado o prescrito es posible asignarle un valor de verdad (usualmente “verdadero” o “falso”, aunque en lógica formal se admiten otros valores de verdad diferentes).
 
 > Una proposición es una cadena de signos expresados en un determinado lenguaje.
 
-En otras palabras, una proposición es una oración [en un lenguaje, sea natural o no] estructuralmente válida [o bien formada], aunque su valor pueda verdad, mentira oindeterminado. O una oración o sentencia, vaya, sea verdad, mentira o indeterminada.
+En otras palabras, una proposición es una oración [en un lenguaje, sea natural o no] estructuralmente válida [o bien formada], aunque su valor pueda verdad, mentira o indeterminado. O una oración o sentencia, vaya, sea verdad, mentira o indeterminada.
 
-### Premisa
+#### Definición de premisa
 
 En cuanto a premisa [7] se refiere:
 
@@ -239,39 +250,41 @@ En cuanto a premisa [7] se refiere:
 
 Con este vocabulario base, podemos proceder a lasconectivas lógicas, que serían las encargadas de conectar lógicamente una o varias proposiciones.
 
-### Conectiva lógica
+#### Definición de conectiva lógica
 
 En cuanto a conectiva lógica [8] se refiere:
 
-> En lógica, una conectiva lógica, o simplemente conectiva, (también llamadooperador lógico o conectores lógicos) es un símbolo o palabra que se utiliza para conectar dos fórmulas [o proposiciones] bien formadas o sentencias (atómicas omoleculares), de modo que el valor de verdad de la fórmula compuesta depende del valor de verdad de las fórmulas componentes.
+> En lógica, una conectiva lógica, o simplemente conectiva, (también llamado operador lógico o conector lógico) es un símbolo o palabra que se utiliza para conectar dos fórmulas [o proposiciones] bien formadas o sentencias (atómicas o moleculares), de modo que el valor de verdad de la fórmula compuesta depende del valor de verdad de las fórmulas componentes.
 
 Antes de volver a profundizar en las conectivas lógicas, que es donde explaya la intríngulis lógica [o coherencia], vale la pena solventar 2 conceptos más: las sentencias [o proposiciones, vaya] moleculares y atómicas.
 
-### Sentencia atómica y sentencia molecular
+#### Definición de sentencia atómica
 
-En cuanto a sentencia atómica y sentencia molecular [9] se refiere:
+En cuanto a sentencia atómica [9] se refiere:
 
 > En lógica, una sentencia atómica es un tipo de sentencia declarativa que puede serverdadera o falsa (también puede ser referido como una proposición, declaración o portador de la verdad) y que no puede ser dividida en otras sentencias más simples.
 
-> Por ejemplo, <El cachorro corrió> es unasentencia atómica en lenguaje natural, mientras que <El cachorro corrió y el gato se escondió> es una sentencia molecular en lenguaje natural.
+Por ejemplo, «El cachorro corrió» es unasentencia atómica en lenguaje natural, mientras que «El cachorro corrió y el gato se escondió» es una sentencia molecular en lenguaje natural.
+
+#### Definición de sentencia molecular
 
 En el caso del ejemplo anterior, la sentencia molecular es el resultado compuesto de 2 sentencias atómicas unidas por una conectiva lógica, la de conjunción. Ahora vamos con ello.
 
 Dicho esto, quedan claro bastantes de los conceptos base de lalógica. Sin embargo, las conectivas lógicas u operadores lógicos son los que van a dar coherencia y valor de verdad [o mentira] a las nuevas inferencias [o conclusiones] que sepamos y queramos desvelar de nuestras argumentaciones lógicas.
 
-Por tanto, dicho esto, vamos a hacer un repaso a lasconectivas lógicas principales [10]. Cuando acabemos con ellas, continuaremos la misma enumeración [de las conectivas lógicas] con los elementos de clases y operadores lógicos[11].
+Por tanto, dicho esto, vamos a hacer un repaso a las conectivas lógicas principales [10]. Cuando acabemos con ellas, continuaremos la misma enumeración [de las conectivas lógicas] con los elementos de clases y operadores lógicos[11].
 
 Antes de ello, hacer una mención a la lógica de clases, de la cual también explicaremos algunos símbolos.
 
-### Lógica de clases
+#### Definición de lógica de clases
 
 En cuanto a lógica de clases [12] se refiere:
 
 > La lógica de clases analiza la proposición lógica considerando la pertenencia o no pertenencia de un elemento o individuo clasificado por poseer una determinada propiedad.​ Sobre esta lógica se formaliza como modelo científico la teoría matemática de conjuntos.
 
-Ahora sí, procedamos a explicar las conectivas, loselementos y los operadores de la lógica, en general.
+Ahora sí, procedamos a explicar las conectivas, los elementos y los operadores de la lógica, en general.
 
-### Conectiva 1. Condicional.
+#### Conectiva 1. Condicional.
 
 Definición:
 
@@ -286,7 +299,7 @@ Lenguaje natural:
 > A implica B.
 Si A entonces B.
 
-### Conectiva 2. Condicional bidireccional.
+#### Conectiva 2. Condicional bidireccional.
 
 Definición:
 
@@ -301,7 +314,7 @@ Lenguaje natural:
 > Solo A implica B.
 Si y solo si A entonces B.
 
-### Conectiva 3. Negación.
+#### Conectiva 3. Negación.
 
 Definición:
 
@@ -316,7 +329,7 @@ Lenguaje natural:
 > No A.
 Falso que A.
 
-### Conectiva 4. Conjunción.
+#### Conectiva 4. Conjunción.
 
 Definición:
 
@@ -331,7 +344,7 @@ Lenguaje natural:
 > A y B.
 A y también B.
 
-### Conectiva 5. Disyunción.
+#### Conectiva 5. Disyunción.
 
 Definición:
 
@@ -345,7 +358,7 @@ Lenguaje natural:
 
 > A o B.
 
-### Conectiva 6. Disyunción exclusiva.
+#### Conectiva 6. Disyunción exclusiva.
 
 Definición:
 
@@ -359,7 +372,7 @@ Lenguaje natural:
 
 > O solo A o solo B.
 
-### Conectiva 7. Tautología.
+#### Conectiva 7. Tautología.
 
 Definición:
 
@@ -374,7 +387,7 @@ Lenguaje natural:
 > Es verdad que A.
 A es verdad.
 
-### Conectiva 8. Contradicción.
+#### Conectiva 8. Contradicción.
 
 Definición:
 
@@ -389,7 +402,7 @@ Lenguaje natural:
 > Es falso que A.
 A es falso.
 
-### Conectiva 9. Cuantificador universal.
+#### Conectiva 9. Cuantificador universal.
 
 Definición:
 
@@ -405,7 +418,7 @@ Lenguaje natural:
 Todo A
 Todas las instancias de A
 
-### Conectiva 10. Cuantificador existencial.
+#### Conectiva 10. Cuantificador existencial.
 
 Definición:
 
@@ -421,7 +434,7 @@ Lenguaje natural:
 Algún A
 Alguna instancia de A
 
-### Conectiva 11. Cuantificador de unicidad.
+#### Conectiva 11. Cuantificador de unicidad.
 
 Definición:
 
@@ -437,7 +450,7 @@ Lenguaje natural:
 Solo un A
 Solo una instancia de A
 
-### Conectiva 12. Definición.
+#### Conectiva 12. Definición.
 
 Definición:
 
@@ -453,7 +466,7 @@ Lenguaje natural:
 La definición de A es B.
 A significa B.
 
-### Conectiva 13. Grupo precedente.
+#### Conectiva 13. Grupo precedente.
 
 Definición:
 
@@ -469,7 +482,7 @@ Lenguaje natural:
 
 Nota: el lenguaje natural presenta claros problemas al agrupar símbolos, dado que de manera fonética no está provisto de delimitadores grupales. No obstante, aquí intentamos darle una opción.
 
-### Conectiva 14. Deducción.
+#### Conectiva 14. Deducción.
 
 Definición:
 
@@ -484,7 +497,7 @@ Lenguaje natural:
 > De A se deduce B.
 B puede ser probado por A.
 
-### Conectiva 15. Deducción semántica.
+#### Conectiva 15. Deducción semántica.
 
 Definición:
 
@@ -499,7 +512,7 @@ Lenguaje natural:
 > Del significado de A se deduce B.
 B puede ser probado por la definición A.
 
-### Elemento 16. Clase universal
+#### Elemento 16. Clase universal
 
 Definición:
 
@@ -514,7 +527,7 @@ Lenguaje natural:
 > El Universo
 El Todo
 
-### Elemento 17. Clase vacía
+#### Elemento 17. Clase vacía
 
 Definición:
 
@@ -529,7 +542,7 @@ Lenguaje natural:
 > La Nada
 El Vacío
 
-### Elemento 18. Individuos, objetos, elementos o instancias
+#### Elemento 18. Individuos, objetos, elementos o instancias
 
 Definición:
 
@@ -545,7 +558,7 @@ Lenguaje natural:
 
 Nota: la x es simplemente un nombre aleatorio.
 
-### Operador 19. Pertenencia
+#### Operador 19. Pertenencia
 
 Definición:
 
@@ -559,7 +572,7 @@ Lenguaje natural:
 
 > A pertenece a B
 
-### Operador 20. No pertenencia
+#### Operador 20. No pertenencia
 
 Definición:
 
@@ -573,7 +586,7 @@ Lenguaje natural:
 
 > A no pertenece a B
 
-### Operador 21. Contenencia
+#### Operador 21. Contenencia
 
 Definición:
 
@@ -587,7 +600,7 @@ Lenguaje natural:
 
 > A está contenida en B
 
-### Operador 22. No contenencia
+#### Operador 22. No contenencia
 
 Definición:
 
@@ -601,7 +614,7 @@ Lenguaje natural:
 
 > A no está contenida en B
 
-### Operador 23. Proporcionalidad
+#### Operador 23. Proporcionalidad
 
 Definición:
 
@@ -615,7 +628,7 @@ Lenguaje natural:
 
 > A es proporcional a B
 
-### Operador 24. Intersección
+#### Operador 24. Intersección
 
 Definición:
 
@@ -630,7 +643,7 @@ Lenguaje natural:
 > Los elementos comunes en A y B.
 Los elementos que aparecen tanto en A como en B.
 
-### Operador 25. Unión
+#### Operador 25. Unión
 
 Definición:
 
@@ -644,7 +657,7 @@ Lenguaje natural:
 
 > Los elementos de A y de B.
 
-### Operador 26. Por consiguiente
+#### Operador 26. Por consiguiente
 
 Definición:
 
@@ -658,7 +671,7 @@ Lenguaje natural:
 
 > A, por tanto B.
 
-### Operador 27. Similitud
+#### Operador 27. Similitud
 
 Definición:
 
@@ -672,7 +685,7 @@ Lenguaje natural:
 
 > A es similar a B.
 
-### Operador 28. No similitud
+#### Operador 28. No similitud
 
 Definición:
 
@@ -686,7 +699,7 @@ Lenguaje natural:
 
 > A no es similar a B.
 
-### Operador 29. Igualdad aproximada
+#### Operador 29. Igualdad aproximada
 
 Definición:
 
@@ -700,7 +713,7 @@ Lenguaje natural:
 
 > A es aproximadamente igual a B.
 
-### Operador 30. Aproximación
+#### Operador 30. Aproximación
 
 Definición:
 
@@ -714,7 +727,7 @@ Lenguaje natural:
 
 > A es suficientemente aproximado a B.
 
-### Operador 31. Igualdad
+#### Operador 31. Igualdad
 
 Definición:
 
@@ -728,7 +741,7 @@ Lenguaje natural:
 
 > A es igual a B.
 
-### Operador 32. Identidad
+#### Operador 32. Identidad
 
 Definición:
 
@@ -742,7 +755,7 @@ Lenguaje natural:
 
 > A es idéntica a B.
 
-### Operador 33. Subconjunto
+#### Operador 33. Subconjunto
 
 Definición:
 
@@ -757,7 +770,7 @@ Lenguaje natural:
 > A es un subconjunto de B.
 A es parte de B.
 
-### Operador 34. No subconjunto
+#### Operador 34. No subconjunto
 
 Definición:
 
@@ -772,7 +785,7 @@ Lenguaje natural:
 > A no es un subconjunto de B.
 A no es parte de B.
 
-### Operador 35. Superconjunto
+#### Operador 35. Superconjunto
 
 Definición:
 
@@ -787,7 +800,7 @@ Lenguaje natural:
 > A es un superconjunto de B.
 A incluye a B.
 
-### Operador 36. No superconjunto
+#### Operador 36. No superconjunto
 
 Definición:
 
@@ -802,7 +815,7 @@ Lenguaje natural:
 > A no es un superconjunto de B.
 A no incluye a B.
 
-### Operador 37. Subconjunto o igualdad
+#### Operador 37. Subconjunto o igualdad
 
 Definición:
 
@@ -817,7 +830,7 @@ Lenguaje natural:
 > A es igual o subconjunto de B.
 A es igual o es parte de B.
 
-### Operador 38. Superconjunto o igualdad
+#### Operador 38. Superconjunto o igualdad
 
 Definición:
 
@@ -833,6 +846,8 @@ Lenguaje natural:
 A es igual o incluye a B.
 
 -----
+
+### Cómo continuaría la cosa
 
 Bueno, más allá de esto, que sería una base, está directamente JavaScript, Castelog, o cualquier lenguaje de programación, que tiene todo esto, y más. Así de fácil. En filosofía, la carrera universitaria de Filosofía, hablan de lógica. Pero no de programación, ni de lenguajes. Y ya está, fin, yo estudié filosofía, y la búsqueda de la verdad, desde allí, empieza aquí, en la programación. En Filosofía te enseñan a parsear lenguaje natural con palabras muy abstractas, y cuando te pones a hablar, en plan filosófico, lo normal es que digas muchas palabras para decir realmente muy pocas cosas. Con muchos matices, y que requieren mucha capacidad para interpretar, porque son mensajes largos. Pero, básicamente, poca lógica, mucha palabra. Como ahora los políticos. O la ley. La ley de los políticos. Y todo así.
 
@@ -851,6 +866,11 @@ Ojalá. De verdad. Si no hoy, pronto. Por ti. Porque, en general, eres una perso
 
 -----
 
+### Aclaraciones (1)
+
 Finalemente, creo que los secuoyas son más altos que las palmeras de Cocora. Pero estas son más bonitas, y limpias. Es como si... bueno, ChatGPT puede ser la hostia, pero si no puedes seguirle el hilo, si no puedes programar con él, pues será muy tocho, pero el tonto siempre has sido tú. Así que el secuoya, para mí, no vale. Porque el tonto eres tú, el que tiene que aprender lógica, eres tú. Yo ya sé que un procesador puede ir muy rápido. La cosa es cómo usamos ese procesador. Ese, y tantos otros recursos. Y eso depende de tu lógica. Y ya está. Por eso, las palmeras de Cocora, que puedes seguirle el hilo claramente. Otros árboles, te van a liar. Este, no. Este, es limpio, es claro. Pues esta es, un poco, la metáfora. Y claro, Palo Alto, donde dicen que pasan tantos datos nuestros. Pues eso.
 
 Comed, ratas, comed. Comed vuestro queso roñoso.
+
+-----
+

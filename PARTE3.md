@@ -3,10 +3,18 @@
 
 
 
+
+-----
+
+### Aclaraciones (1)
+
 Finalemente, creo que los secuoyas son más altos que las palmeras de Cocora. Pero estas son más bonitas, y limpias. Es como si... bueno, ChatGPT puede ser la hostia, pero si no puedes seguirle el hilo, si no puedes programar con él, pues será muy tocho, pero el tonto siempre has sido tú. Así que el secuoya, para mí, no vale. Porque el tonto eres tú, el que tiene que aprender lógica, eres tú. Yo ya sé que un procesador puede ir muy rápido. La cosa es cómo usamos ese procesador. Ese, y tantos otros recursos. Y eso depende de tu lógica. Y ya está. Por eso, las palmeras de Cocora, que puedes seguirle el hilo claramente. Otros árboles, te van a liar. Este, no. Este, es limpio, es claro. Pues esta es, un poco, la metáfora. Y claro, Palo Alto, donde dicen que pasan tantos datos nuestros. Pues eso.
 
 Comed, ratas, comed. Comed vuestro queso roñoso.
+
 -----
+
+### Cómo continuaría la cosa
 
 Bueno, más allá de esto, que sería una base, está directamente JavaScript, Castelog, o cualquier lenguaje de programación, que tiene todo esto, y más. Así de fácil. En filosofía, la carrera universitaria de Filosofía, hablan de lógica. Pero no de programación, ni de lenguajes. Y ya está, fin, yo estudié filosofía, y la búsqueda de la verdad, desde allí, empieza aquí, en la programación. En Filosofía te enseñan a parsear lenguaje natural con palabras muy abstractas, y cuando te pones a hablar, en plan filosófico, lo normal es que digas muchas palabras para decir realmente muy pocas cosas. Con muchos matices, y que requieren mucha capacidad para interpretar, porque son mensajes largos. Pero, básicamente, poca lógica, mucha palabra. Como ahora los políticos. O la ley. La ley de los políticos. Y todo así.
 
@@ -25,7 +33,7 @@ Ojalá. De verdad. Si no hoy, pronto. Por ti. Porque, en general, eres una perso
 
 -----
 
----
+### Contextualización
 
 Aquí empieza la 3ª parte.
 
@@ -140,6 +148,8 @@ La lógica empalma con las matemáticas, pues no sé por qué, la verdad. Pero l
 
 Hay gente que se ha currado intentar explicar por qué lógica y números. Pero digamos, en la época de Aristóteles, números, ya había. Fue él el que empezó a hablar de lógica. Y te puedes esperar que alguien ya estuviera dando nociones antes, claro. Pero bueno, te ha llegado Aristóteles, pues bueno, pues ese. No importa quién, importa que lo empezó. Y que ahora, los ordenadores se fundamentan en eso. En cierta forma, en ciertos sentidos. Es igual.
 
+A ver, sí que sé, más o menos, cómo se empalman. Pero es complicado y no tengo todos los detalles de memoria. Pero bueno, en informática, está el lenguaje ensamblador. Y los fundamentos electrónicos de este lenguaje, que es el más primitivo, no te los puedo explicar, porque nunca entré en esos temas. Pero bueno, crean un circuito electrónico que puede cambiar el estado de bits (0 o 1). A esos bits, le dan unos significados. Y además, están los registros de la CPU. Y luego, los opcodes. Y hay un juego con los opcodes para hacer llamadas a funciones, y cosas así. Pero bueno... no te lo puedo explicar muy bien. El caso es que, de estados en memoria de ceros y unos, consiguen llegar a hacer operaciones matemáticas. Entonces, es como que estás enlazando lógica (0 o 1, mentira o verdad), con matemáticas (sumas, restas, multiplicaciones, divisiones). Lo que viene a decir es: *desde la lógica, puedes conquistar las matemáticas*. Yo lo expreso como que lógica y matemáticas, son lo mismo. Porque es verdad, son lo mismo: causalidad. Pero bueno, eso no importa tanto.
+
 Lo que queda, es eso, es lógica, verdad, números, programación.
 
 Y la lógica solo es como el vehículo. Luego están los datos. Pero bueno, esto te hace ser consciente de la falta de datos, precisamente, tanto de política como de economía. Ya está. A partir de ahí, me justifico hasta estar loco.
@@ -148,8 +158,670 @@ No sé, da igual. No te voy a caer bien, está claro. Te tengo que gustar, esa e
 
 ### La lógica
 
-**Índice:**
+A continuación se definen una serie de conceptos relacionados con la lógica. Sinceramente, es un tostón, y eso que es breve, pero... es lo que hay.
 
+#### Definición de lógica
+
+Según Wikipedia, la lógica [1] se define como sigue:
+
+> La lógica es la ciencia formal y rama tanto de la filosofía como de las matemáticas que estudia los principios de la demostración y la inferencia válida,​ las falacias, las paradojas y la noción de verdad.
+
+
+#### Definición de inferencia
+
+En cuanto a inferencia [2] se refiere:
+
+> La inferencia es el proceso por el cual se derivan conclusiones a partir de premisas. Cuando una proposición se sigue de otras de ese modo, se dice que éstas implican aquélla.
+
+
+#### Definición de falacia
+
+En cuanto a falacia [3] se refiere:
+
+> En lógica, una falacia (del latín: fallacia, ‘engaño’) es un argumento que parece válido, pero no lo es.1​2​ Algunas falacias se cometen intencionalmente para persuadir o manipular a los demás, mientras que otras se cometen sin intención debido a descuidos o ignorancia.
+
+- Definición de «lógica» de [https://es.wikipedia.org/wiki/Lógica](https://es.wikipedia.org/wiki/Lógica).
+- Definición de «inferencia» de [https://es.wikipedia.org/wiki/Inferencia](https://es.wikipedia.org/wiki/Inferencia).
+- Definición de «falacia» de [https://es.wikipedia.org/wiki/Falacia](https://es.wikipedia.org/wiki/Falacia).
+
+#### Definición de paradoja
+
+En cuanto a paradoja [4] se refiere:
+
+> Una paradoja (del latín paradoxa, ‘lo contrario a la opinión común’) o antilogía es una idea extraña opuesta a lo que se considera verdadero a la opinión general.​ También se considera paradoja a una proposición en apariencia falsa o que infringe el sentido común, pero no conlleva una contradicción lógica, en contraposición a un sofisma que solo aparenta ser un razonamiento válido.
+
+#### Definición de sofismo
+
+La paradoja y el sofismo [5] se diferencian, por tanto, en lo siguiente:
+
+> Un sofisma es una refutación o silogismo aparente, con objetivo de defender algo falso confundiendo al oyente o interlocutor, mediante una argucia en la argumentación. Una falacia lógica es una proposiciónpresentada como verdadera en una afirmación, pero que solo lo es aparentemente.
+
+Por tanto: la paradoja es una proposición que parece falsa pero no es ilógica, mientras que el sofisma es una proposición que parece verdadera pero sí es ilógica.
+
+O más simple todavía: la paradoja es una proposición que parece mentira pero es verdad, y el sofisma es una proposición que parece verdad pero es mentira.
+
+#### Definición de proposición
+
+En cuanto a proposición [6] se refiere:
+
+> En filosofía y lógica, el término proposición se usa para referirse a las entidades portadoras de los valores de verdad.
+Los objetos de las creencias y de otras actitudes proposicionales.
+El significado de las oraciones declarativas o enunciativas, como <el Sol es una estrella>.
+
+> Intuitivamente una proposición expresa un contenido semántico a la que bajo cierto procedimiento acordado o prescrito es posible asignarle un valor de verdad (usualmente “verdadero” o “falso”, aunque en lógica formal se admiten otros valores de verdad diferentes).
+
+> Una proposición es una cadena de signos expresados en un determinado lenguaje.
+
+En otras palabras, una proposición es una oración [en un lenguaje, sea natural o no] estructuralmente válida [o bien formada], aunque su valor pueda verdad, mentira o indeterminado. O una oración o sentencia, vaya, sea verdad, mentira o indeterminada.
+
+#### Definición de premisa
+
+En cuanto a premisa [7] se refiere:
+
+> En lógica, una premisa es cada una de las proposiciones anteriores a la conclusión de argumento.​ En un argumento válido, las premisas implican la conclusión, pero esto no es necesario para que una proposición sea una premisa: lo único relevante es su lugar en el argumento, no su rol. Al ser proposiciones, las premisas siempre afirman o niegan algo que puede ser verdadero o falso.
+
+Con este vocabulario base, podemos proceder a lasconectivas lógicas, que serían las encargadas de conectar lógicamente una o varias proposiciones.
+
+#### Definición de conectiva lógica
+
+En cuanto a conectiva lógica [8] se refiere:
+
+> En lógica, una conectiva lógica, o simplemente conectiva, (también llamado operador lógico o conector lógico) es un símbolo o palabra que se utiliza para conectar dos fórmulas [o proposiciones] bien formadas o sentencias (atómicas o moleculares), de modo que el valor de verdad de la fórmula compuesta depende del valor de verdad de las fórmulas componentes.
+
+Antes de volver a profundizar en las conectivas lógicas, que es donde explaya la intríngulis lógica [o coherencia], vale la pena solventar 2 conceptos más: las sentencias [o proposiciones, vaya] moleculares y atómicas.
+
+#### Definición de sentencia atómica
+
+En cuanto a sentencia atómica [9] se refiere:
+
+> En lógica, una sentencia atómica es un tipo de sentencia declarativa que puede serverdadera o falsa (también puede ser referido como una proposición, declaración o portador de la verdad) y que no puede ser dividida en otras sentencias más simples.
+
+Por ejemplo, «El cachorro corrió» es unasentencia atómica en lenguaje natural, mientras que «El cachorro corrió y el gato se escondió» es una sentencia molecular en lenguaje natural.
+
+#### Definición de sentencia molecular
+
+En el caso del ejemplo anterior, la sentencia molecular es el resultado compuesto de 2 sentencias atómicas unidas por una conectiva lógica, la de conjunción. Ahora vamos con ello.
+
+Dicho esto, quedan claro bastantes de los conceptos base de lalógica. Sin embargo, las conectivas lógicas u operadores lógicos son los que van a dar coherencia y valor de verdad [o mentira] a las nuevas inferencias [o conclusiones] que sepamos y queramos desvelar de nuestras argumentaciones lógicas.
+
+Por tanto, dicho esto, vamos a hacer un repaso a las conectivas lógicas principales [10]. Cuando acabemos con ellas, continuaremos la misma enumeración [de las conectivas lógicas] con los elementos de clases y operadores lógicos[11].
+
+Antes de ello, hacer una mención a la lógica de clases, de la cual también explicaremos algunos símbolos.
+
+#### Definición de lógica de clases
+
+En cuanto a lógica de clases [12] se refiere:
+
+> La lógica de clases analiza la proposición lógica considerando la pertenencia o no pertenencia de un elemento o individuo clasificado por poseer una determinada propiedad.​ Sobre esta lógica se formaliza como modelo científico la teoría matemática de conjuntos.
+
+Ahora sí, procedamos a explicar las conectivas, los elementos y los operadores de la lógica, en general.
+
+#### Conectiva 1. Condicional.
+
+Definición:
+
+> Hace depender [la verdad de] una proposición [o un conjunto de ellas] en función de [la verdad de] otra proposición [o un conjunto de ellas],
+
+Símbolos: ⇒, →, ⊃
+
+Uso: A → B
+
+Lenguaje natural:
+
+> A implica B.
+Si A entonces B.
+
+#### Conectiva 2. Condicional bidireccional.
+
+Definición:
+
+> No solo hace depender a la primera proposición [o el primer conjunto de ellas] de la segunda proposición [o el segundo conjunto de ellas], sino que también hace depender a la segunda proposición [o el segundo conjunto de ellas] de la primera proposición [o el primer conjunto de ellas]. Por tanto, una [la primera o la segunda proposición] implica a la otra, indistintamente de cual sea primera o segunda.
+
+Símbolos: ⇔, ≡, ↔
+
+Uso: A ↔ B
+
+Lenguaje natural:
+
+> Solo A implica B.
+Si y solo si A entonces B.
+
+#### Conectiva 3. Negación.
+
+Definición:
+
+> Niega [el valor de] una proposición.
+
+Símbolos: ¬, ˜, !
+
+Uso: ¬A
+
+Lenguaje natural:
+
+> No A.
+Falso que A.
+
+#### Conectiva 4. Conjunción.
+
+Definición:
+
+> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que los componentes sean todos verdad para que la proposición resultante sea verdad.
+
+Símbolos: ∧, •, &
+
+Uso: A ∧ B
+
+Lenguaje natural:
+
+> A y B.
+A y también B.
+
+#### Conectiva 5. Disyunción.
+
+Definición:
+
+> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que al menos un componente sea verdad para que la proposición resultante sea verdad. Pueden ser los dos verdad, o uno verdad, pero no los dos mentira.
+
+Símbolos: ∨, +, ǀǀ, |
+
+Uso: A ∨ B
+
+Lenguaje natural:
+
+> A o B.
+
+#### Conectiva 6. Disyunción exclusiva.
+
+Definición:
+
+> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que solo un componente sea verdad para que la proposición resultante sea verdad: no pueden ser los dos verdad, ni los dos mentira, solo uno verdad y el otro mentira.
+
+Símbolos: ⊕, ⊻
+
+Uso: A ⊻ B
+
+Lenguaje natural:
+
+> O solo A o solo B.
+
+#### Conectiva 7. Tautología.
+
+Definición:
+
+> Afirma como verdadera una proposición.
+
+Símbolos: ⊤, T, 1
+
+Uso: ⊤A
+
+Lenguaje natural:
+
+> Es verdad que A.
+A es verdad.
+
+#### Conectiva 8. Contradicción.
+
+Definición:
+
+> Afirma como falsa [o mentira] una proposición.
+
+Símbolos: ⊥, F, 0
+
+Uso: ⊥A
+
+Lenguaje natural:
+
+> Es falso que A.
+A es falso.
+
+#### Conectiva 9. Cuantificador universal.
+
+Definición:
+
+> Hace referencia a todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
+
+Símbolos: ∀
+
+Uso: ∀A
+
+Lenguaje natural:
+
+> Para todo A
+Todo A
+Todas las instancias de A
+
+#### Conectiva 10. Cuantificador existencial.
+
+Definición:
+
+> Hace referencia a alguna de todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
+
+Símbolos: ∃
+
+Uso: ∃A
+
+Lenguaje natural:
+
+> Para por lo menos un A
+Algún A
+Alguna instancia de A
+
+#### Conectiva 11. Cuantificador de unicidad.
+
+Definición:
+
+> Hace referencia a solo una de todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
+
+Símbolos: ∃!
+
+Uso: ∃!A
+
+Lenguaje natural:
+
+> Para solo un A
+Solo un A
+Solo una instancia de A
+
+#### Conectiva 12. Definición.
+
+Definición:
+
+> Determina a una proposición como la definición de otra proposición.
+
+Símbolos: :=, ≡, :⇔
+
+Uso: A := B
+
+Lenguaje natural:
+
+> A se define como B.
+La definición de A es B.
+A significa B.
+
+#### Conectiva 13. Grupo precedente.
+
+Definición:
+
+> Agrupa proposiciones.
+
+Símbolos: ( )
+
+Uso: (A v B) ∧ (C ∧ D)
+
+Lenguaje natural:
+
+> grupo A o B agrupado y grupo C y D agrupado.
+
+Nota: el lenguaje natural presenta claros problemas al agrupar símbolos, dado que de manera fonética no está provisto de delimitadores grupales. No obstante, aquí intentamos darle una opción.
+
+#### Conectiva 14. Deducción.
+
+Definición:
+
+> Demuestra [o presupone demostrar] la validez de una proposición según la validez de una [proposición] anterior.
+
+Símbolos: ⊢
+
+Uso: A ⊢ B
+
+Lenguaje natural:
+
+> De A se deduce B.
+B puede ser probado por A.
+
+#### Conectiva 15. Deducción semántica.
+
+Definición:
+
+> Demuestra [o presupone demostrar] la validez de una proposición según la validez y carga semántica [o la definición] de una [proposición] anterior.
+
+Símbolos: ⊨
+
+Uso: A ⊨ B
+
+Lenguaje natural:
+
+> Del significado de A se deduce B.
+B puede ser probado por la definición A.
+
+#### Elemento 16. Clase universal
+
+Definición:
+
+> Elemento que sirve para referirse a todos los objetos de un conjunto o contexto dado.
+
+Símbolos: U
+
+Uso: U
+
+Lenguaje natural:
+
+> El Universo
+El Todo
+
+#### Elemento 17. Clase vacía
+
+Definición:
+
+> Elemento que sirve para referirse a ningún objeto de un conjunto o contexto dado.
+
+Símbolos: Ø
+
+Uso: Ø
+
+Lenguaje natural:
+
+> La Nada
+El Vacío
+
+#### Elemento 18. Individuos, objetos, elementos o instancias
+
+Definición:
+
+> Elementos [de alguna clase].
+
+Símbolos: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ …
+
+Uso: x₀, x₁, x₂, x₃, x₄,…
+
+Lenguaje natural:
+
+> x0, x1, x2, x3, x4....
+
+Nota: la x es simplemente un nombre aleatorio.
+
+#### Operador 19. Pertenencia
+
+Definición:
+
+> Operador que sirve para declarar a una proposición como perteneciente a otra [proposición].
+
+Símbolos: ∈
+
+Uso: A ∈ B
+
+Lenguaje natural:
+
+> A pertenece a B
+
+#### Operador 20. No pertenencia
+
+Definición:
+
+> Operador que sirve para declarar a una proposición como no perteneciente a otra [proposición].
+
+Símbolos: ∉
+
+Uso: A ∉ B
+
+Lenguaje natural:
+
+> A no pertenece a B
+
+#### Operador 21. Contenencia
+
+Definición:
+
+> Operador que sirve para declarar a una proposición como contenida en otra [proposición].
+
+Símbolos: ∋
+
+Uso: A ∋ B
+
+Lenguaje natural:
+
+> A está contenida en B
+
+#### Operador 22. No contenencia
+
+Definición:
+
+> Operador que sirve para declarar a una proposición como no contenida en otra [proposición].
+
+Símbolos: ∌
+
+Uso: A ∌ B
+
+Lenguaje natural:
+
+> A no está contenida en B
+
+#### Operador 23. Proporcionalidad
+
+Definición:
+
+> Operador que sirve para declarar a una proposición como proporcional a otra [proposición].
+
+Símbolos: ∝
+
+Uso: A ∝ B
+
+Lenguaje natural:
+
+> A es proporcional a B
+
+#### Operador 24. Intersección
+
+Definición:
+
+> Hace referencia al conjunto de elementos comunes de un conjunto y otro [conjunto].
+
+Símbolo: ∩
+
+Uso: A ∩ B
+
+Lenguaje natural:
+
+> Los elementos comunes en A y B.
+Los elementos que aparecen tanto en A como en B.
+
+#### Operador 25. Unión
+
+Definición:
+
+> Hace referencia al conjunto de elementos existentes en dos conjuntos.
+
+Símbolo: ∪
+
+Uso: A ∪ B
+
+Lenguaje natural:
+
+> Los elementos de A y de B.
+
+#### Operador 26. Por consiguiente
+
+Definición:
+
+> Expresa consecuencia.
+
+Símbolo: ∴
+
+Uso: A ∴ B
+
+Lenguaje natural:
+
+> A, por tanto B.
+
+#### Operador 27. Similitud
+
+Definición:
+
+> Expresa similitud entre dos proposiciones.
+
+Símbolo: ∼
+
+Uso: A ∼ B
+
+Lenguaje natural:
+
+> A es similar a B.
+
+#### Operador 28. No similitud
+
+Definición:
+
+> Expresa no similitud entre dos proposiciones.
+
+Símbolo: ≁
+
+Uso: A ≁ B
+
+Lenguaje natural:
+
+> A no es similar a B.
+
+#### Operador 29. Igualdad aproximada
+
+Definición:
+
+> Expresa que una proposición es aproximadamente igual a otra [proposición].
+
+Símbolo: ≅
+
+Uso: A ≅ B
+
+Lenguaje natural:
+
+> A es aproximadamente igual a B.
+
+#### Operador 30. Aproximación
+
+Definición:
+
+> Expresa que una proposición es suficientemente aproximada a otra [proposición].
+
+Símbolo: ≈
+
+Uso: A ≈ B
+
+Lenguaje natural:
+
+> A es suficientemente aproximado a B.
+
+#### Operador 31. Igualdad
+
+Definición:
+
+> Expresa que una proposición es igual a otra proposición.
+
+Símbolo: =
+
+Uso: A ≠ B
+
+Lenguaje natural:
+
+> A es igual a B.
+
+#### Operador 32. Identidad
+
+Definición:
+
+> Expresa que una proposición es idéntica a otra proposición.
+
+Símbolo: ≡
+
+Uso: A ≡ B
+
+Lenguaje natural:
+
+> A es idéntica a B.
+
+#### Operador 33. Subconjunto
+
+Definición:
+
+> Expresa que un conjunto es parte [o subconjunto] de otro conjunto.
+
+Símbolo: ⊂
+
+Uso: A ⊂ B
+
+Lenguaje natural:
+
+> A es un subconjunto de B.
+A es parte de B.
+
+#### Operador 34. No subconjunto
+
+Definición:
+
+> Expresa que un conjunto es parte [o subconjunto] de otro conjunto.
+
+Símbolo: ⊄
+
+Uso: A ⊄ B
+
+Lenguaje natural:
+
+> A no es un subconjunto de B.
+A no es parte de B.
+
+#### Operador 35. Superconjunto
+
+Definición:
+
+> Expresa que un conjunto incluye a [o es un superconjunto de] otro conjunto.
+
+Símbolo: ⊃
+
+Uso: A ⊃ B
+
+Lenguaje natural:
+
+> A es un superconjunto de B.
+A incluye a B.
+
+#### Operador 36. No superconjunto
+
+Definición:
+
+> Expresa que un conjunto incluye a [o es un superconjunto de] otro conjunto.
+
+Símbolo: ⊅
+
+Uso: A ⊅ B
+
+Lenguaje natural:
+
+> A no es un superconjunto de B.
+A no incluye a B.
+
+#### Operador 37. Subconjunto o igualdad
+
+Definición:
+
+> Expresa que un conjunto es igual [que] o es parte [o subconjunto] de otro conjunto.
+
+Símbolo: ⊆
+
+Uso: A ⊆ B
+
+Lenguaje natural:
+
+> A es igual o subconjunto de B.
+A es igual o es parte de B.
+
+#### Operador 38. Superconjunto o igualdad
+
+Definición:
+
+> Expresa que un conjunto es igual [que] o incluye a [o es un superconjunto de] otro conjunto.
+
+Símbolo: ⊇
+
+Uso: A ⊇ B
+
+Lenguaje natural:
+
+> A es igual o es un superconjunto de B.
+A es igual o incluye a B.
+
+-----
+
+#### Índice
+
+1. [Contextualización](contextualización)
 1. [La lógica](la-lógica)
     1. [Definición de lógica](definición-de-lógica)
     1. [Definición de inferencia](definición-de-inferencia)
@@ -201,658 +873,7 @@ No sé, da igual. No te voy a caer bien, está claro. Te tengo que gustar, esa e
     1. [Operador 38. Superconjunto o igualdad](operador-38.-superconjunto-o-igualdad)
     1. [Respuesta final: ¿Qué es la lógica?](respuesta-final-¿qué-es-la-lógica?)
     1. [Fuentes](fuentes)
+1. [Cómo continuaría la cosa](cómo-continuaría-la-cosa)
+1. [Aclaraciones (1)](aclaraciones-1)
 
-### Lógica
-
-Según Wikipedia, la lógica [1] se define como sigue:
-
-> La lógica es la ciencia formal y rama tanto de la filosofía como de las matemáticas que estudia los principios de la demostración y lainferencia válida,​ las falacias, las paradojasy la noción de verdad.
-
-
-### Inferencia
-
-En cuanto a inferencia [2] se refiere:
-
-> La inferencia es el proceso por el cual se derivan conclusiones a partir de premisas. Cuando una proposición se sigue de otras de ese modo, se dice que éstas implican aquélla.
-
-
-### Falacia
-
-En cuanto a falacia [3] se refiere:
-
-> En lógica, una falacia (del latín: fallacia, ‘engaño’) es un argumento que parece válido, pero no lo es.1​2​ Algunas falacias se cometen intencionalmente para persuadir o manipular a los demás, mientras que otras se cometen sin intención debido a descuidos o ignorancia.
-
-- Definición de «lógica» de [https://es.wikipedia.org/wiki/Lógica](https://es.wikipedia.org/wiki/Lógica).
-- Definición de «inferencia» de [https://es.wikipedia.org/wiki/Inferencia](https://es.wikipedia.org/wiki/Inferencia).
-- Definición de «falacia» de [https://es.wikipedia.org/wiki/Falacia](https://es.wikipedia.org/wiki/Falacia).
-
-### Paradoja
-
-En cuanto a paradoja [4] se refiere:
-
-> Una paradoja (del latín paradoxa, ‘lo contrario a la opinión común’) o antilogía es una idea extraña opuesta a lo que se considera verdadero a la opinión general.​ También se considera paradoja a una proposición en apariencia falsa o que infringe el sentido común, pero no conlleva una contradicción lógica, en contraposición a un sofisma que solo aparenta ser un razonamiento válido.
-
-### Sofismo
-
-La paradoja y el sofismo [5] se diferencian, por tanto, en lo siguiente:
-
-> Un sofisma es una refutación o silogismo aparente, con objetivo de defender algo falso confundiendo al oyente o interlocutor, mediante una argucia en la argumentación. Una falacia lógica es una proposiciónpresentada como verdadera en una afirmación, pero que solo lo es aparentemente.
-
-Por tanto: la paradoja es una proposición que parece falsapero no es ilógica, mientras que el sofisma es una proposición que parece verdadera pero sí es ilógica.
-
-O más simple todavía: la paradoja es una proposición que parece mentira pero es verdad, y el sofisma es una proposición que parece verdad pero es mentira.
-
-### Proposición
-
-En cuanto a proposición [6] se refiere:
-
-> En filosofía y lógica, el término proposición se usa para referirse a las entidades portadoras de los valores de verdad.
-Los objetos de las creencias y de otras actitudes proposicionales.
-El significado de las oraciones declarativas o enunciativas, como <el Sol es una estrella>.
-
-> Intuitivamente una proposición expresa un contenido semántico a la que bajo cierto procedimiento acordado o prescrito es posible asignarle un valor de verdad (usualmente “verdadero” o “falso”, aunque en lógica formal se admiten otros valores de verdad diferentes).2​
-
-> Una proposición es una cadena de signos expresados en un determinado lenguaje.
-
-En otras palabras, una proposición es una oración [en un lenguaje, sea natural o no] estructuralmente válida [o bien formada], aunque su valor pueda verdad, mentira oindeterminado. O una oración o sentencia, vaya, sea verdad, mentira o indeterminada.
-
-### Premisa
-
-En cuanto a premisa [7] se refiere:
-
-> En lógica, una premisa es cada una de las proposiciones anteriores a la conclusión de argumento.​ En un argumento válido, las premisas implican la conclusión, pero esto no es necesario para que una proposición sea una premisa: lo único relevante es su lugar en el argumento, no su rol. Al ser proposiciones, las premisas siempre afirman o niegan algo que puede ser verdadero o falso.
-
-Con este vocabulario base, podemos proceder a lasconectivas lógicas, que serían las encargadas de conectar lógicamente una o varias proposiciones.
-
-### Conectiva lógica
-
-En cuanto a conectiva lógica [8] se refiere:
-
-> En lógica, una conectiva lógica, o simplemente conectiva, (también llamadooperador lógico o conectores lógicos) es un símbolo o palabra que se utiliza para conectar dos fórmulas [o proposiciones] bien formadas o sentencias (atómicas omoleculares), de modo que el valor de verdad de la fórmula compuesta depende del valor de verdad de las fórmulas componentes.
-
-Antes de volver a profundizar en las conectivas lógicas, que es donde explaya la intríngulis lógica [o coherencia], vale la pena solventar 2 conceptos más: las sentencias [o proposiciones, vaya] moleculares y atómicas.
-
-### Sentencia atómica y sentencia molecular
-
-En cuanto a sentencia atómica y sentencia molecular [9] se refiere:
-
-> En lógica, una sentencia atómica es un tipo de sentencia declarativa que puede serverdadera o falsa (también puede ser referido como una proposición, declaración o portador de la verdad) y que no puede ser dividida en otras sentencias más simples.
-
-> Por ejemplo, <El cachorro corrió> es unasentencia atómica en lenguaje natural, mientras que <El cachorro corrió y el gato se escondió> es una sentencia molecular en lenguaje natural.
-
-En el caso del ejemplo anterior, la sentencia molecular es el resultado compuesto de 2 sentencias atómicas unidas por una conectiva lógica, la de conjunción. Ahora vamos con ello.
-
-Dicho esto, quedan claro bastantes de los conceptos base de lalógica. Sin embargo, las conectivas lógicas u operadores lógicos son los que van a dar coherencia y valor de verdad [o mentira] a las nuevas inferencias [o conclusiones] que sepamos y queramos desvelar de nuestras argumentaciones lógicas.
-
-Por tanto, dicho esto, vamos a hacer un repaso a lasconectivas lógicas principales [10]. Cuando acabemos con ellas, continuaremos la misma enumeración [de las conectivas lógicas] con los elementos de clases y operadores lógicos[11].
-
-Antes de ello, hacer una mención a la lógica de clases, de la cual también explicaremos algunos símbolos.
-
-### Lógica de clases
-
-En cuanto a lógica de clases [12] se refiere:
-
-> La lógica de clases analiza la proposición lógica considerando la pertenencia o no pertenencia de un elemento o individuo clasificado por poseer una determinada propiedad.​ Sobre esta lógica se formaliza como modelo científico la teoría matemática de conjuntos.
-
-Ahora sí, procedamos a explicar las conectivas, loselementos y los operadores de la lógica, en general.
-
-### Conectiva 1. Condicional.
-
-Definición:
-
-> Hace depender [la verdad de] una proposición [o un conjunto de ellas] en función de [la verdad de] otra proposición [o un conjunto de ellas],
-
-Símbolos: ⇒, →, ⊃
-
-Uso: A → B
-
-Lenguaje natural:
-
-> A implica B.
-Si A entonces B.
-
-### Conectiva 2. Condicional bidireccional.
-
-Definición:
-
-> No solo hace depender a la primera proposición [o el primer conjunto de ellas] de la segunda proposición [o el segundo conjunto de ellas], sino que también hace depender a la segunda proposición [o el segundo conjunto de ellas] de la primera proposición [o el primer conjunto de ellas]. Por tanto, una [la primera o la segunda proposición] implica a la otra, indistintamente de cual sea primera o segunda.
-
-Símbolos: ⇔, ≡, ↔
-
-Uso: A ↔ B
-
-Lenguaje natural:
-
-> Solo A implica B.
-Si y solo si A entonces B.
-
-### Conectiva 3. Negación.
-
-Definición:
-
-> Niega [el valor de] una proposición.
-
-Símbolos: ¬, ˜, !
-
-Uso: ¬A
-
-Lenguaje natural:
-
-> No A.
-Falso que A.
-
-### Conectiva 4. Conjunción.
-
-Definición:
-
-> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que los componentes sean todos verdad para que la proposición resultante sea verdad.
-
-Símbolos: ∧, •, &
-
-Uso: A ∧ B
-
-Lenguaje natural:
-
-> A y B.
-A y también B.
-
-### Conectiva 5. Disyunción.
-
-Definición:
-
-> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que al menos un componente sea verdad para que la proposición resultante sea verdad. Pueden ser los dos verdad, o uno verdad, pero no los dos mentira.
-
-Símbolos: ∨, +, ǀǀ, |
-
-Uso: A ∨ B
-
-Lenguaje natural:
-
-> A o B.
-
-### Conectiva 6. Disyunción exclusiva.
-
-Definición:
-
-> Agrupa 2 proposiciones en 1, y el valor [de verdad] de la proposición resultante ahora dependerá del valor [de verdad] de sus componentes. Este operador fuerza a que solo un componente sea verdad para que la proposición resultante sea verdad: no pueden ser los dos verdad, ni los dos mentira, solo uno verdad y el otro mentira.
-
-Símbolos: ⊕, ⊻
-
-Uso: A ⊻ B
-
-Lenguaje natural:
-
-> O solo A o solo B.
-
-### Conectiva 7. Tautología.
-
-Definición:
-
-> Afirma como verdadera una proposición.
-
-Símbolos: ⊤, T, 1
-
-Uso: ⊤A
-
-Lenguaje natural:
-
-> Es verdad que A.
-A es verdad.
-
-### Conectiva 8. Contradicción.
-
-Definición:
-
-> Afirma como falsa [o mentira] una proposición.
-
-Símbolos: ⊥, F, 0
-
-Uso: ⊥A
-
-Lenguaje natural:
-
-> Es falso que A.
-A es falso.
-
-### Conectiva 9. Cuantificador universal.
-
-Definición:
-
-> Hace referencia a todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
-
-Símbolos: ∀
-
-Uso: ∀A
-
-Lenguaje natural:
-
-> Para todo A
-Todo A
-Todas las instancias de A
-
-### Conectiva 10. Cuantificador existencial.
-
-Definición:
-
-> Hace referencia a alguna de todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
-
-Símbolos: ∃
-
-Uso: ∃A
-
-Lenguaje natural:
-
-> Para por lo menos un A
-Algún A
-Alguna instancia de A
-
-### Conectiva 11. Cuantificador de unicidad.
-
-Definición:
-
-> Hace referencia a solo una de todas las unidades [o ejemplares o instancias u objetos] de una clase [de unidades o ejemplares o instancias u objetos].
-
-Símbolos: ∃!
-
-Uso: ∃!A
-
-Lenguaje natural:
-
-> Para solo un A
-Solo un A
-Solo una instancia de A
-
-### Conectiva 12. Definición.
-
-Definición:
-
-> Determina a una proposición como la definición de otra proposición.
-
-Símbolos: :=, ≡, :⇔
-
-Uso: A := B
-
-Lenguaje natural:
-
-> A se define como B.
-La definición de A es B.
-A significa B.
-
-### Conectiva 13. Grupo precedente.
-
-Definición:
-
-> Agrupa proposiciones.
-
-Símbolos: ( )
-
-Uso: (A v B) ∧ (C ∧ D)
-
-Lenguaje natural:
-
-> grupo A o B agrupado y grupo C y D agrupado.
-
-Nota: el lenguaje natural presenta claros problemas al agrupar símbolos, dado que de manera fonética no está provisto de delimitadores grupales. No obstante, aquí intentamos darle una opción.
-
-### Conectiva 14. Deducción.
-
-Definición:
-
-> Demuestra [o presupone demostrar] la validez de una proposición según la validez de una [proposición] anterior.
-
-Símbolos: ⊢
-
-Uso: A ⊢ B
-
-Lenguaje natural:
-
-> De A se deduce B.
-B puede ser probado por A.
-
-### Conectiva 15. Deducción semántica.
-
-Definición:
-
-> Demuestra [o presupone demostrar] la validez de una proposición según la validez y carga semántica [o la definición] de una [proposición] anterior.
-
-Símbolos: ⊨
-
-Uso: A ⊨ B
-
-Lenguaje natural:
-
-> Del significado de A se deduce B.
-B puede ser probado por la definición A.
-
-### Elemento 16. Clase universal
-
-Definición:
-
-> Elemento que sirve para referirse a todos los objetos de un conjunto o contexto dado.
-
-Símbolos: U
-
-Uso: U
-
-Lenguaje natural:
-
-> El Universo
-El Todo
-
-### Elemento 17. Clase vacía
-
-Definición:
-
-> Elemento que sirve para referirse a ningún objeto de un conjunto o contexto dado.
-
-Símbolos: Ø
-
-Uso: Ø
-
-Lenguaje natural:
-
-> La Nada
-El Vacío
-
-### Elemento 18. Individuos, objetos, elementos o instancias
-
-Definición:
-
-> Elementos [de alguna clase].
-
-Símbolos: ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ …
-
-Uso: x₀, x₁, x₂, x₃, x₄,…
-
-Lenguaje natural:
-
-> x0, x1, x2, x3, x4....
-
-Nota: la x es simplemente un nombre aleatorio.
-
-### Operador 19. Pertenencia
-
-Definición:
-
-> Operador que sirve para declarar a una proposición como perteneciente a otra [proposición].
-
-Símbolos: ∈
-
-Uso: A ∈ B
-
-Lenguaje natural:
-
-> A pertenece a B
-
-### Operador 20. No pertenencia
-
-Definición:
-
-> Operador que sirve para declarar a una proposición como no perteneciente a otra [proposición].
-
-Símbolos: ∉
-
-Uso: A ∉ B
-
-Lenguaje natural:
-
-> A no pertenece a B
-
-### Operador 21. Contenencia
-
-Definición:
-
-> Operador que sirve para declarar a una proposición como contenida en otra [proposición].
-
-Símbolos: ∋
-
-Uso: A ∋ B
-
-Lenguaje natural:
-
-> A está contenida en B
-
-### Operador 22. No contenencia
-
-Definición:
-
-> Operador que sirve para declarar a una proposición como no contenida en otra [proposición].
-
-Símbolos: ∌
-
-Uso: A ∌ B
-
-Lenguaje natural:
-
-> A no está contenida en B
-
-### Operador 23. Proporcionalidad
-
-Definición:
-
-> Operador que sirve para declarar a una proposición como proporcional a otra [proposición].
-
-Símbolos: ∝
-
-Uso: A ∝ B
-
-Lenguaje natural:
-
-> A es proporcional a B
-
-### Operador 24. Intersección
-
-Definición:
-
-> Hace referencia al conjunto de elementos comunes de un conjunto y otro [conjunto].
-
-Símbolo: ∩
-
-Uso: A ∩ B
-
-Lenguaje natural:
-
-> Los elementos comunes en A y B.
-Los elementos que aparecen tanto en A como en B.
-
-### Operador 25. Unión
-
-Definición:
-
-> Hace referencia al conjunto de elementos existentes en dos conjuntos.
-
-Símbolo: ∪
-
-Uso: A ∪ B
-
-Lenguaje natural:
-
-> Los elementos de A y de B.
-
-### Operador 26. Por consiguiente
-
-Definición:
-
-> Expresa consecuencia.
-
-Símbolo: ∴
-
-Uso: A ∴ B
-
-Lenguaje natural:
-
-> A, por tanto B.
-
-### Operador 27. Similitud
-
-Definición:
-
-> Expresa similitud entre dos proposiciones.
-
-Símbolo: ∼
-
-Uso: A ∼ B
-
-Lenguaje natural:
-
-> A es similar a B.
-
-### Operador 28. No similitud
-
-Definición:
-
-> Expresa no similitud entre dos proposiciones.
-
-Símbolo: ≁
-
-Uso: A ≁ B
-
-Lenguaje natural:
-
-> A no es similar a B.
-
-### Operador 29. Igualdad aproximada
-
-Definición:
-
-> Expresa que una proposición es aproximadamente igual a otra [proposición].
-
-Símbolo: ≅
-
-Uso: A ≅ B
-
-Lenguaje natural:
-
-> A es aproximadamente igual a B.
-
-### Operador 30. Aproximación
-
-Definición:
-
-> Expresa que una proposición es suficientemente aproximada a otra [proposición].
-
-Símbolo: ≈
-
-Uso: A ≈ B
-
-Lenguaje natural:
-
-> A es suficientemente aproximado a B.
-
-### Operador 31. Igualdad
-
-Definición:
-
-> Expresa que una proposición es igual a otra proposición.
-
-Símbolo: =
-
-Uso: A ≠ B
-
-Lenguaje natural:
-
-> A es igual a B.
-
-### Operador 32. Identidad
-
-Definición:
-
-> Expresa que una proposición es idéntica a otra proposición.
-
-Símbolo: ≡
-
-Uso: A ≡ B
-
-Lenguaje natural:
-
-> A es idéntica a B.
-
-### Operador 33. Subconjunto
-
-Definición:
-
-> Expresa que un conjunto es parte [o subconjunto] de otro conjunto.
-
-Símbolo: ⊂
-
-Uso: A ⊂ B
-
-Lenguaje natural:
-
-> A es un subconjunto de B.
-A es parte de B.
-
-### Operador 34. No subconjunto
-
-Definición:
-
-> Expresa que un conjunto es parte [o subconjunto] de otro conjunto.
-
-Símbolo: ⊄
-
-Uso: A ⊄ B
-
-Lenguaje natural:
-
-> A no es un subconjunto de B.
-A no es parte de B.
-
-### Operador 35. Superconjunto
-
-Definición:
-
-> Expresa que un conjunto incluye a [o es un superconjunto de] otro conjunto.
-
-Símbolo: ⊃
-
-Uso: A ⊃ B
-
-Lenguaje natural:
-
-> A es un superconjunto de B.
-A incluye a B.
-
-### Operador 36. No superconjunto
-
-Definición:
-
-> Expresa que un conjunto incluye a [o es un superconjunto de] otro conjunto.
-
-Símbolo: ⊅
-
-Uso: A ⊅ B
-
-Lenguaje natural:
-
-> A no es un superconjunto de B.
-A no incluye a B.
-
-### Operador 37. Subconjunto o igualdad
-
-Definición:
-
-> Expresa que un conjunto es igual [que] o es parte [o subconjunto] de otro conjunto.
-
-Símbolo: ⊆
-
-Uso: A ⊆ B
-
-Lenguaje natural:
-
-> A es igual o subconjunto de B.
-A es igual o es parte de B.
-
-### Operador 38. Superconjunto o igualdad
-
-Definición:
-
-> Expresa que un conjunto es igual [que] o incluye a [o es un superconjunto de] otro conjunto.
-
-Símbolo: ⊇
-
-Uso: A ⊇ B
-
-Lenguaje natural:
-
-> A es igual o es un superconjunto de B.
-A es igual o incluye a B.
+-----
