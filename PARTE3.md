@@ -3,6 +3,31 @@
 
 
 
+
+-----
+
+Hablar no sirve, compi.
+
+Si tengo que decirle algo al que viene, es que la confianza la ponga en los números, no las palabras de los políticos. Y números significa: somos tantas personas, tiene que haber tantas casas. Tanta comida. Tantos recursos. Ni propiedad privada, ni hostias.
+
+¿Qué pasa? Que Dios me odia mucho. No sé, no sé cómo arreglarlo. Pero no puedo. Entonces, no me estrañaría que lo que te encuentres sea todo lo contrario, como yo: todo es propiedad de alguien. Y esos alguien, trabajo, no te quieren dar. O, seamos claros, no soportas trabajar. No soportas trabajar para un sistema absurdo donde se están comportando como ratas.
+
+O, cuidado, ojo. Lo contrario a esto. Que sería un comunismo rancio, donde, tendrías que obedecer al líder de turno, que sí ha recibido educación, etc. Igual esa es la nueva circunstancia. O cuidado, porque también lo tengo calculado. Igual, puede ser, que la nueva circunstancia sea una democracia directa de verdad, en una sociedad horizontal. Donde tú eres una minoría, sea física, sea mental, sea ambas. Y te van a joder. Todo puede ser. Es decir, tienes todas las chances. Pero no te extrañe que el factor común es que te estén jodiendo. No te extrañe, porque es previsible.
+
+Esto juego, juego, no es. Es decir, hablamos de lógica. Hablamos de programación. Pero vivimos una vida. Con todos sus objetos, clases, lógica. Con toda su programación. Compremos esto, ok. Pues... juego. Juego, ¿no? Sería la palabra, en lenguaje natural. Un cristal lógico donde se representan, se proyectan, todas estas formas y colores, con sus conductas respectivas. Ok.
+
+En los juegos, tratas de matar el aburrimiento. Aquí no. El aburrimiento es solo 1 de los palos. Hambre. Frío. Lluvia. Aburrimiento. Sentido. Y bueno, emociones, que ahí ya está, perdido. Porque como dependas de ellos, que no te enseñan otra cosa que eso, depender de ellos, pues... vete a saber. Por lo cual... amigo compañero... no lo sé. El que te hace daño está también dentro. Y puede apretar. ¿Mi mensaje? No, no tengo. Yo no me he salvado en este mundo. No tengo las claves desde este. En el tuyo, no sé. Tener pocos deseos, puede ayudar. Pero necesitas derribar esos palos. Y ellos no se lo toman en serio. De hecho, ellos fácilmente, corrígeme si me equivoco y obvia lo que no te encaje, pero ellos, fácilmente, lo usen como arma. Como arma. Arma. Contra ti. Como hacen conmigo. Así que... no lo sé.
+
+Si has entendido lo que he querido decir, con todas sus contradicciones, pues... olé. O gran parte. No soy preciso, no busques en mí la tabla de la verdad.
+
+La cuestión del bien y el mal... ahora la trataré. Pero quiero que sepas que ni eso está claro realmente: el contexto en la función ética que expliqué en ocasiones anteriores (creo que en la parte 1) es tan grande, que nunca sabes nada realmente. Es decir, portarse bien, portarse bien: se trata de lo que tú creas que es. Y ellos habrán interferido en eso, está claro. Y si lo real es que: ¿ellos son robots, haciéndote hacer cosas tontas pero que te duelan? Pues esa premisa cambiaría todo.
+
+Una última cosa es: no temas en suicidarte. Como yo, que soy un cobarde. No temas. Yo llevo 12.000 días casi. Y... bueno, simplemente, apretan. Y me expulsan, no se puede hacer nada. ¿Qué hago? ¿Los mato? No... no me llevaré eso conmigo. Igual son robots. Bueno, robots son seguro. Lo único que está en duda es si ellos también están engañados como yo. Embaucados. Orgullosos y airosos. Pero embaucados desde el principio. Y realmente sienten. Cabe esa duda. Dios puede montarlo, yo no tengo dudas. Es posible que pueda montar señales y diálogos sobre lo que ellos hacen. Pero... claro, me gustaría creer que no sienten. Pero no soy tan listo, no veo tanto como para decir eso con total seguridad.
+
+Ahora vamos con el bien y el mal, como uno de los palos más importantes en este... juego no. Embaucamiento, vale.
+
+-----
+
 Igual uno pensaría que simplemente, el mundo tiene un procesador muchísimo más rápido. No digo que no, puede tenerlo. Puede... proyectar que lo tiene, vaya. Pero...
 
 Estoy hablando de lo que te sigue. Inmediatamente. Inmediato es: sin mediadores. Sin mediación. Sin intermedios.
@@ -30,7 +55,6 @@ El problema, a ver... el problema aquí es que el universo no siente. Simplement
 ¿Que puedes cambiar el pensamiento? Inténtalo. Si quieres, y puedes, o la mecánica universal te lo permite, adelante, hazlo. Y puede que tu lectura del mundo real cambie drásticamente. Pero es porque se te permite. A mí me están jodiendo fuerte, me están haciendo pensar que están estudiando mi conducta, y no me están diciendo ni para qué. Simplemente, minan datos, minan información sobre mis reacciones. Saben que no mataré. Pero siguen provocando. De hecho, no existe la opción «dejar de provocar». Sé el precio de la marihuana. Sé los derechos de mierda. Sé de toda la presunta gente que está aprovechándose de esos derechos de mierda, de alguna forma, o que les conviene. Y todavía me quedo en el lugar, esperando que venga un ángel y me saqué de aquí volando, hacia las nubes, para poder dejar toda esta basura de mundo atrás y lejos. Antes que coger y decir: tú me estás jodiendo, te voy a joder, porque lo haces así como con estilo, con clase. Pues te reviento 3 veces más, por vacilarme durante tanto tiempo. Y no. En cambio, si me vacilas en un cara a cara, igual te la llevas, con muchas menos razones para llevártela. Soy mecánico. Y no es tan fácil salirse de la mecánica.
 
 Bueno, fin.
-
 
 -----
 
