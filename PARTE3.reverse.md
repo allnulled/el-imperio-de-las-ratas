@@ -874,7 +874,7 @@ Comed, ratas, comed. Comed vuestro queso roñoso.
 
 -----
 
-### ...
+### Aclaraciones (2)
 
 Quería compartir una reflexión. La voz no me va a responder, ya lo noto. Así que simplemente, la escribiré.
 
@@ -930,6 +930,8 @@ Pero que el mundo no está programado. Un programa, tarda. El mundo no tarda. Ha
 
 -----
 
+### Aclaraciones (3)
+
 Igual uno pensaría que simplemente, el mundo tiene un procesador muchísimo más rápido. No digo que no, puede tenerlo. Puede... proyectar que lo tiene, vaya. Pero...
 
 Estoy hablando de lo que te sigue. Inmediatamente. Inmediato es: sin mediadores. Sin mediación. Sin intermedios.
@@ -960,6 +962,8 @@ Bueno, fin.
 
 -----
 
+### Aclaraciones (4)
+
 Hablar no sirve, compi.
 
 Si tengo que decirle algo al que viene, es que la confianza la ponga en los números, no las palabras de los políticos. Y números significa: somos tantas personas, tiene que haber tantas casas. Tanta comida. Tantos recursos. Ni propiedad privada, ni hostias.
@@ -981,6 +985,8 @@ Una última cosa es: no temas en suicidarte. Como yo, que soy un cobarde. No tem
 Ahora vamos con el bien y el mal, como uno de los palos más importantes en este... juego no. Embaucamiento, vale.
 
 -----
+
+### Sobre el bien y el mal
 
 Bueno, hablemos del bien y el mal.
 
@@ -1016,5 +1022,44 @@ En fin. Suerte. Y sabes que no existe la suerte. Es un hueco por donde Dios se p
 
 -----
 
+### Aclaraciones (5)
+
+Aclarar un par de cosas.
+
+La comparación. Que tiene que ver mucho con la compensación. Pues la comparación es una de las operaciones del ensamblador, el lenguaje de lenguajes lógicos. Y tiene sentido, tanto que se base en ceros y unos, binario. Por el Yin y Yang. Y consecuentemente, tiene sentido la comparación. Porque solo hay 2. Yin. Y yang.
+
+La comparación es el gran engaño. Pero al principio, te lo comes con patatas. Eres un niño, qué vas a hacer. Pues lo que te digan. ¿La verdad? La comparación sirve, pero es engañosa. Es lo que te digo: más de 200 proyectos de programación compartidos, y todavía estaría peleando por un trabajo en esta sociedad de ratas. Porque uno piensa, claro, es que no he demostrado. Me *comparan* con otros candidatos, los reclutadores de mierda, y dicen: pues este no. Lo entendería. Pero ahora, con +200 proyectos de software compartidos gratuitamente, la comparación solo sirve para sentirme único. Soy único. Y si estás leyendo esto, y estás vivo, probablemente tú seas yo en otro momento del tiempo. Pero tampoco creas todo lo que yo escribo (o lo que te llega de ello, si es que llega algo), porque está mediado por él. Tanto lo que se te transmite, como lo que tú recibes, está mediado. Por él. De lo inmediato, te puedes fiar, pero sabes que hay reglas y se lía todo. Y lo que me digo a mí, en tu caso no aplica. Quién sabe. La comparación es útil, pero es engañosa. En lógica sí, es útil. En la práctica, psé. Yo encontré más libertad haciendo lo que ninguno de estos, que lo que cualquiera de ellos. Así que bueno. Y sigue distando mucho de mi idea de libertad. Pero bueno. ¿Cómo iba a seguir una rutina diaria, si tengo horarios de sueño completamente trastocados? Qué va. Engañoso, engañoso en extremo. Y miro dónde se me ha metido, realmente, sin tonterías. Y es como... bueno, como el monito. Pongamos la foto del monito, va:
+
+![Monito_listo](./monito_listo.png)
+
+Te sientes así. En un zoo. Donde tú eres la atracción de feria. Pero entre lo de ellos, y lo tuyo, hay un cristal. Y no puedes romperlo. La piedra que usa el monito es la lógica. La lógica, y la verdad, sincera, y habiéndolo pasado mal suficiente ya. Quiero decir, me he tirado meses, en realidad sumando, años, años de mi vida. A 0€ de ingreso. Literal. Sin pagar facturas, es cierto. Pero sin poder ir a un bar a tomarse una Coca-Cola sin estar la conciencia remordiendo. De hecho, ya no vas. No intentas ser como los demás. Buscas por tu cuenta. Es como si estuvieran muertos. Como si fueran muertos que se mueven, y que no les toques nada que igual hasta pillas. Esa es la vida, realmente, la vida donde me han metido. Me han querido hacer pensar otra cosa. Pero la realidad es esta. Y nadie te salva. Te echan flotadores, es cierto. Pero al final dejas de aceptarlos, directamente. Te sientes asqueroso. Te aferras a lo que conocías. Como un niño. Pero es un niño forzado, un niño al que no dejan crecer. Y en el fondo, estás creciendo. A base de estar en la mierda y que todos te hagan bullying. Un bullying sutil, si quieres. Pero son muchas cosas. Recuerda que les estoy dando un lenguaje lógico para que aprendan... pues básicamente lo más clave de toda la vida, porque si todo se puede explicar con lógica, pues es digamos el lenguaje de los dioses. Se lo estoy masticando. Pues nada. Ignorancia plena. Maltrato sádico en la esquina. Y suma. Y sigue. Y suma, y sigue sumando. Y así pasan mis días. Es el infierno. No me lo creía, pero ese monito me representa demasiado. Igual tu historia va de otra cosa. Igual aquí no encuentras nada útil dado lo que se te dio, puesto donde se te puso. No lo sé. Este es mi testimonio.
+
+El otro punto que quería tocar es... bueno. ¿Qué tiene que ver el bien en todo esto? Pues igual a ti te configuran mentalmente, o simplemente sales, de otra forma. A mí me han estado amenazando con ir a un infierno peor si me porto mal. Eso me paraliza para hacer el mal, el daño, el daño que quemeaspen se lo están rifando, ganado ya lo tienen. Pero no lo hago. Y casi que... tengo que aceptar mi programación, mi configuración mental. Digo casi, porque en el fondo, podría hacer daño directo sobre lo que ya para mí ni son personas. Porque son robots, grita la vida. Pero bueno, los veo tontos, y he sido tanto tiempo tonto (reset, renacer, samsara) que... les tengo que disculpar. Aún a costa de mi vida. Porque se la han comido. Pero bueno, es lo que te digo, esta vida no vale una mierda. Y te lo estoy diciendo como élite tecnológica. Es decir, he conseguido ponerme en la cabeza del mundo. Va, aquí un screenshot del lenguaje mío, y el que se empeñan por continuar teniendo. Para que lo veas, y que te imagines lo mucho que podrían cambiar las cosas si todo niño, antes de salir de primaria, le dan la oportunidad de aprender esto.
+
+Esto es JavaScript, el lenguaje más popular del mundo:
+
+![Codigo_javascript_1](./codigo_javascript_1.png)
+
+Y esto es Castelog, el lenguaje que yo solito he tenido que hacer, diciendo lo mismo:
+
+![Codigo_castelog_1](./codigo_castelog_1.png)
+
+No sé, si tengo que justificar por qué mi defensa, fuera de lo técnico, te remito al mermaid de la primera parte donde explico los cerebros, la sociedad, el lenguaje lógico y el lenguaje natural. Las cosas cambiarían drásticamente. Es algo que, si eres vivo, si eres alguien que tiene algo dentro de verdad, pues creo que lo entenderás. Que todo funciona con lógica. Que enseñarles el potencial de comprender y dominar la lógica, es poderoso (programadores). Pero integrar eso, con el lenguaje natural, que es casi vehículo del pensamiento y principal instrumento de comunicación entre caos y caos (persona y persona), pues el potencial se multiplica en todos los ámbitos de la vida. Simplemente.
+
+Y esto es después de haber ya hecho NaturalScript, y que el MIT me lo robara en su Scratch. Digo robara, pero... "robara". Mucho tiempo después, aunque se te olvide por momentos, recuerdas: estás aquí porque te dejan. Todo lo que tienes, te lo prestan. El lenguaje, en una sociedad real, en mi cálculo mental al menos, ya habría sido hecho, y con ensamblador. Directamente. Pero bueno, no es tan fácil. Ni hacerlo, ni compatibilizarlo con un montón de cosas que a mí, se me escapan claramente. Pero quiero decir, que la informática está muy avanzada ya, aunque se empeñen en mirar lo que no hay, lo que hay es tan bestia, que cuesta creer (bueno, no es que cueste, es que no te lo crees directamente) que nadie haya hecho esto antes. Castelog, digo. O algo parecido, NaturalScript, lo que sea. Hay algunos. AppleScript, por ejemplo, se le tacha de algo así. Pero no es lo mismo... Han hecho cosas muchísimo más complicadas. Es... te meten en esta historia, simplemente. Al final, lo entiendes. Que estás donde quieren tenerte. Sin más.
+
+Pues qué tiene que ver el bien y el mal, con los palos naturales más altos: la lógica. Pues te levantas, y te dedicas a hacer tu versión adaptada del bien. Es decir... demasiado. Tiene demasiado que ver. En el "juego", te definirán una versión de bien. Pero, realmente, tú tienes la tuya. Pues basar la tuya, en la lógica, aunque sea un coñazo, porque es un coñazo que si te puedes ahorrar igual es mejor, pero hacerlo, te quitará de dudas.
+
+Y así estoy yo. Convencido de que el mundo no vale una mierda, y que estoy en tiempo extra solamente. Pero... es liberador. Los remordimientos me han comido mucha vida. Y no porque haya hecho algo mal. Es porque, culturamente, sacralizan el instrumento de la maldad. Dinero, en mi caso. Y obedecer a poderes políticos ilegítimos. Pero claro, llegar hasta estas conclusiones... son muchos escalones. Y es fácil tropezarse.
+
+Ahora, mi definición de política y de economía, aunque choque frontalmente con la suya, pues tengo no fe, tengo convicción racional de que es matemáticamente no-nazi. Matemáticamente. Ellos parten de premisas nazis. Decir esto, tú no sabes el dolor y la mierda que lleva. Pero ahora sí. Ahora lo dices tranquilo, convencido de que igual el vacuno les da la razón. Pero la calculadora, no. La calculadora me la da a mí. Eso, es poder de verdad y de bien. No mediático. No económico. No político. No de persuasión. No ese. Pero yo buscaba la verdad. La riqueza, es un caramelo. Yo iba a por la receta de los caramelos. De hecho, aún estoy de frente, esperando que simplifiquen la receta del MDMA. No lo harán, lo entiendo. Bueno, qué le voy a hacer. Y digo MDMA, pero hay muchas más. Antidepresivos mismo, que los tengo por ahí sin tocar, es una droga de la hostia. Es decir: las recetas, las tienen. Las que he creado yo, también las tienen. Pero bueno, en la historia, te dicen que no. Pero simplemente, estaba atacando al problema de la sociedad de raíz. Y es eso: lo social, que se parte en político y económico, principalmente. Y que rigen la educación, que es el fertilizante mental principal también.
+
+En otras palabras, yo he conseguido mis cristales. No son fórmulas de felicidad. No individual. Porque uno que siente, y que no se niega sentir, no puede ser demasiado feliz en un lugar donde el maltrato a las personas, es sistémico y sistemático. No puede, a no ser que las drogas (incluyo socializar, porque cuesta sacarse, pero luego cuesta meterse otra vez también, más aún si te resistes) que le suministran le cieguen. Que creo que es lo normal. Digo creo, porque de crío funciona. De adulto, tienes que sellar esa fuga de alguna forma. La gente suele sellarla como: el mundo es así, no puedes hacer nada. Siento ser tan crítico con Dios. Pero creo que... sabe lo que se hace. Simplemente, he seguido la lógica. Es decir, no creo que tuviera tantos caminos por los cuales escoger, si buscaba la verdad.
+
+Otra de las cosas que me di cuenta: no tengas miedo de decir la verdad. De hecho, a más la digas, más te viene. No puedo jurarla como ley, pero conmigo ha funcionado así bastante a menudo. Y digo, igual decirlas, puedes repensarlo. Pero cuenta que el que rige a los cuerpos y objetos que ves, sabe lo que piensas. Incluso antes de que lo pienses. Esto, me temo, sí es ley (Yin, Yang, tú sientes, él es el listo). Pero también que lo disimule. Y que nadie parezca entender lo que dices. Hasta que lo expliques. Y de hecho, en el punto donde estoy: aunque lo expliques de miles de formas. Sigues paralelo a la realidad.
+
+Último párrafo. Bueno, eso. Que... ojalá no hubiera sido tan crítico con la realidad. Es mi... forma de disculpa. Mi forma de pedirle perdón a Dios. O el Diablo, quién sea. Perdona. Discúlpame. Aunque creo que entiendes, por mi configuración mental, que no había otra. Pero, de todos modos, discúlpame. Creo que te sabes bien lo que hacías. Pero... bueno, de todos modos, me pongo en tu piel, es decir... en alguien que ha hecho todo esto. Y me deja juegos y todo. Incluso para justificar que aborrezcas su "juego", te deja juegos. Democracia 2.0. Economía algorítmica. Programación natural. REST automáticas. Había muchos juegos lógicos por completar. Y los dejo a medias, porque ya está, sé que no servirían de nada, como mucho me los roban y rabio por años otra vez. Pero en la estacada vivo, y en ella continuaré. Por eso, que gracias, y que perdona. Por... bueno, como despreciar tu... pretendido caos. Porque es como un contexto sobre el cual poder justificar las locuras que en él se dan, o se pueden dar. Pero vamos, que me la juego all-in que sabías lo que te hacías. Pero bueno, por si no fueras tan listo como creo que eres: perdóname.
+
+Ya está. Dejémoslo ahí, pues.
 
 
