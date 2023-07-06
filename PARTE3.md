@@ -1064,5 +1064,9 @@ A es igual o incluye a B.
     1. [Fuentes](fuentes)
 1. [Cómo continuaría la cosa](cómo-continuaría-la-cosa)
 1. [Aclaraciones (1)](aclaraciones-1)
+1. [Aclaraciones (2)](aclaraciones-2)
+1. [Aclaraciones (3)](aclaraciones-3)
+1. [Aclaraciones (4)](aclaraciones-4)
+1. [Aclaraciones (5)](aclaraciones-5)
 
 -----
