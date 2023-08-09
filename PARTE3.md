@@ -3,7 +3,29 @@
 
 
 
+Se retoma. Tras un lapso. De varias semanas, ciertamente.
 
+Seguimos en un paradigma donde el placer y el dolor retuercen la conducta humana, en una mezcla poco clara de emociones, relaciones mentales, empiria, recuerdos (palabras incusive, ahí nuestra brecha) y básicamente, reacciones frente a todas estas adversidades que no son el ser: sino una parte que el ser *siente*.
+
+Por otro lado, en la otra punta de la comunicación, seguimos teniendo un ente concreto, aunque oculto y encriptado en lo abstracto y aparentes abstracciones que mueven y conmueven a todos los seres que en él se representan, incluído nuestro propio cuerpo, una parte *sintiente* pero a la par *motora* de además *motora de primera mano*, a diferencia del dinero y la conducta socialmente adaptable, por mucho que muchos (seres pseudoiguales, seres humanos) se resistan en reconocer.
+
+Bien.
+
+Por la parte de dentro, tenemos ya unos conceptos claros. Por la parte de fuera, también.
+
+Pues ahora, antes de escribir sobre cualquier cosa, me gustaría escribir sobre el *¿qué hacer?*. Al respecto. A toda esta prisión que nos empiedra en un cuerpo. Nos encarna en un cuerpo. Nos organifica en un cuerpo. Y a la vez, nos enclaustra en una habitación. Gravitatoria. Meteorológica. Ambiental, en un sentido amplio, natural claro. Y finalmente, sobre toda esta abstracción de seres, está la sociedad humana. Que, queramos o no en la mayoría de casos, va a determinar nuestra conducta, en un... 70% casi, diría yo, por lo usual. Lo otro es dormir, comer, cagar, beber, mear. Y divertirse. En mi caso, buscando colillicas de pitillo o de porrillo a ser posible. Pero bueno, tampoco es algo que siempre sea así, no se tome como algo definitorio, porque no lo es.
+
+La primera cosa que hay que decir, después de dejar este punto de partida cosmovisiónico claro, es, y con urgencia. Es. ...le acabo de dar unas caladas al porrillo. En defensa de la marihuana, sé que otros lo podrán usar en contra. Y es parte derivada de la cosa que quiero decir. Y es la siguiente:
+
+Lo primero, o segundo quizá, es el **culto a la piedra comandada**. La piedra que parece tener los comandos de primera mano en este... universo lógico. El culto al cuerpo, a la piedra comandada, a la piedra interna, acarrea la búsqueda de placeres. Tanto a corto, como a medio plazo. O incluso a largo plazo. Esto nos debe llevar a una serie de conclusiones, con respecto al aprendizaje que vamos tomando sobre esta *lógica abstracta* que parece regir los objetos que nos rodean, o incluso que nos atrapana: cuerpo, centros, cárceles. Tienen una lógica. O eso parece. Aunque pueda ser interrumpida y alterada de forma gratuita y improvisa, por agentes externos. Que es posible. Independientemente de esto, sigue una lógica. La **sabiduría** sería, partiendo de esta base clara, la información que en cada vida se recaba sobre esto. Pudiendo suceder que lo que se recava en una vida, no pueda ser extrapolable a otra vida. Por tanto, debe ser considerada dentro del universo, como una **multiverdad**. Es decir: para el individuo, es o puede ser cierta. No necesariamente, para todos los individuos. Eso sería caer en una falacia ecológica**. Pero no es importante, antes tenía otro nombre. Simplemente, que lo que sirve para uno, no tiene por qué servir para todo. Y ahí, la ciencia, <span style="decoration:underline;">intent</span> minimizar el fallo. Bueno. Ni siquiera la ciencia lo sabe. Ahí es donde uno tiene que notarse. A sí mismo. Y confiar. En sus buenas acciones, y su buen retorno cósmico. 
+
+Lo segudo, es el **culto a la piedra no comandada**. Claro. La lectura de esto, es diversa. El punto anterior, puede entenderse bastante parecido, en los grandes conceptos: buena alimentación, buenos hábitos, buenos pensamientos, buenos sentimientos, buenas acciones, buen saber estar. Pero en éste, por ejemplo, mi lectura ahora me va a llevar a profundizar en el lenguaje ensamblador. ¿Por qué? Bueno. Porque con [Castelog](https://github.com/allnulled/castelog), he conseguido una interacción con la piedra bastante... precisa, flexible, y potente. No poderosa. Poderosa, lo conseguiría un hacker, o un tipo que se mueve por muchas aplicaciones, que representan grandes funciones agrupadas en una gran función, que es el programa. 
+
+Ahora que estamos profundizando en ensamblador, nos percatamos que las funciones, como tal, es uno de los usos de la instrucción GOTO. Todavía me tengo que leer el manual, así que mucho caso no me hagas. Pero la función es un patrón de ensamblador que juega con la instrucción GOTO. ¿Importancia? Suma. Suprema. Las matemáticas se basan en operadores como la **función** que, en binario, en código piedra, código máquina, ensamblador, se traduciría como un *patrón de programación*. No es una *habilidad propia* del lenguaje, un *método propio* o una *función propia* del lenguaje. No. Es el mismo agente procesador (o que procesa información) diciéndose: y ahora vuelvo para acá, y ahora voy para allá. Es interesante saber que la función, para la piedra, es simplemente, un: **venga, p'allí ahora**, un **continuamos aquí**. Y punto. Nada más. La función es una forma de usar esa operación-piedra, podemos llamarlo. Los **opcode**.
+
+Pero, **culto a la piedra interna**, en última instancia sintiéndose, pero en intermedias, investigando y conociendo a través de los medios, y **culto a la pidrea externa**, que en mi'se traduce a acercarme al funcionamiento, desde un punto de vista artesanal (no programas especialmente, no aprendiendo distintas áreas y sus protocolos, no tanto como, ahora mismo, la relacion entre en lenguaje, criptografía por excelencia, y la conducta geológica, en un sentido amplio, en el cual el aire y el líquido, y el fuego entre otras son, también, formas que toma la piedra).
+
+Ya está. De momento, esto.
 -----
 
 ### Aclaraciones (6)
