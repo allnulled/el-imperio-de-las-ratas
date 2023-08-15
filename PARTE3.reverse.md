@@ -1175,3 +1175,7 @@ Y aún y así, habrá que quedarse. Por costumbre, por aprendizaje simplemente. 
 
 -----
 
+Filantropía. Bueno, comienza el Gran Hermano, de nuevo. Laif. Oh, laif. No sé. No sé qué quieren, pero creo que conmigo no lo están haciendo bien. Y espero que no quieran lo que creo que quieren. Porque creo cosas. De creer. También de crear. Pero de que yo creer cosas sobre las cosas que hay. Qué quieren. No quiero mirarte, en verdad... lo preferiría. No mirarte.
+
+-----
+
