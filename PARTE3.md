@@ -6,6 +6,10 @@
 
 -----
 
+Filantropía. Bueno, comienza el Gran Hermano, de nuevo. Laif. Oh, laif. No sé. No sé qué quieren, pero creo que conmigo no lo están haciendo bien. Y espero que no quieran lo que creo que quieren. Porque creo cosas. De creer. También de crear. Pero de que yo creer cosas sobre las cosas que hay. Qué quieren. No quiero mirarte, en verdad... lo preferiría. No mirarte.
+
+-----
+
 Hablaría de lo que viví en la calle estos 10 días, nada, 10 días, 11. Suficientes para saber que es pura mierda todo, y que si no lo es, sistémicamente sí, legal y policialmente, sí. Pero es bastante... estaba haciendo un juego. El juego del último mono. Pero no sé. No sé. Me dan mucho asco todos, la verdad. Quiero seguirlo, pero vivir entre vosotros tiene menos sentido que unirse a los monos.
 
 Y aún y así, habrá que quedarse. Por costumbre, por aprendizaje simplemente. Pero ojalá os muriérais todos, de verdad, de corazón, todos vosotros muertos, y el gatito y yo tranquilos. Perdería el sentido, pero... al mismo tiempo, me sacaría la basura del hogar "mundo". Cosa difícil. De verdad, sois basura, de corazón, de verdad. Es para lo más que me da esta medicación decir. No me da para más. Simplemente, sois pura basura. Yo miro en las basuras. Pues tú eres la peor basura de todas. Y no quiero mirarte.
