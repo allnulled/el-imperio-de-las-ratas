@@ -1179,3 +1179,14 @@ Filantropía. Bueno, comienza el Gran Hermano, de nuevo. Laif. Oh, laif. No sé.
 
 -----
 
+No mirar al mundo. Y te meterás la hostia. Mirar al mundo. Y te meterán una paliza y luego te encerrarán.
+
+¿Qué sucede? Pues que Rivotril y Risperidona es como si... te pesara el cuerpo mucho. Y la mente tuviera un registro de memoria infinitamente pequeño. Por tanto, ni ejercicio físico, ni ejercicio mental. No puedes hacer nada. A veces, es mejor estar muerto. Supongo que esa es la lección. Que hay vidas que no vlaen la pena vivirse.
+
+Por lo demás. Os perdono a todos si no tengo que volver a cruzarme con ninguno, ni nadie parecido, ni nada parecido. Si no, os seguiré pesteando. Porque es por vosotros esto.
+
+Dejo colgado el proyecto de `democracia20` porque mi cabeza no da para más, simplemente, no da. No dea de sí. Con esta medicación, es imposible.
+
+Y ya está. Los palos altos lógicos son los de los lenguajes de programación, y yo traía un lenguaje deel más alto nivel. No tengo fuerzas ni para escribir en el teclado. Así que bueno, ya está. Si muero, muero. Y quiero morir, jurao. Gracias, hermano de mierda, no te ocurra una desgracia irreversible y lo lamentes con una depresión toda tu vida, o el resto de ella. Sí, soy muy majo, pero en tu afán por quitarle todo a una persona, pues... el karma no existe, ya lo sabemos. Pero me has jodido, me has jodido bien. Te puedes confitar tu ordenador de segunda mano, pijo asqueroso.
+
+-----
