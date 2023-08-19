@@ -6,6 +6,36 @@
 
 -----
 
+Las pastillas van mengüando su efecto a medida que las sigo tomando.
+
+No te odio, hermano. No te deseo ningún mal. Ni a ti ni a nadie cercano a ti. Solo que me da bastante coraje cuando veo que soy incapaz. Pienso, por las pastillas. Pero la verdad es que soy un adicto a la programación, y fuera de ella, el mundo también se queda sin su lugar. Porque el mundo es un programa. Está programado. Por eso, o programador, o enfermo mental de por vida. Y las empresas ya han hablado. No creo que le encuentre la gracia a ninguna otra cosa. He hecho lo más... divertido que se me ocurre. Y es tirarse a la calle a ver mundo, montañas, playas, paisajes. Vivir la calle. 10 días, cierto. Pero suficientes para destrozarme los pies y aceptar como derrota un ingreso en una institución mental. Era lo más parecido a un videojuego, y si fuera bueno programando, que no lo soy, ojalá un día pudiera hacer un juego de ello. No con gráficos, sólo la lógica de cómo sobrevivir. Sin contactos. Sin teléfono. Sin dinero. Y sin robar, más que algunas galletas en algún supermercado. Me gustaría poder hacerlo, porque hubo momentos donde me sentí agradecido de haber salido de la prisión del "fijomundo". Pero claro, nada es lo que parece. El vagabundo tiene también su prisión, su lógica intransgredible. Y si fallas, te meten en una institución mental, donde pierdes gran parte de tu capacidad física, y mental.
+
+Y eso, da rabia. Porque yo no firmaba para eso. Y efectivamente, me hicieron eso. Y aún me sigo tomando las pastillas, aún siguen haciéndome eso. Con la falsa promesa de que algún día, a lo mejor, me diagnostican, y puedo optar por una paga de mierda, que me la fundiría en porros, lo digo ya aquí: esa paga irá para porros, lo más probable.
+
+Por ahora no, por ahora me olvido. Me olvido de todo. Creo que para eso son estas pastillas. No te dejan retener memoria. Es para que olvides. Te olvidas hasta de gestionar la saliva. Y se te cae la baba. En fin. Es una aventura, pero no es agradable, y no hace gracia desde aquí.
+
+Pero no por ser mi hermano. Es por ser otro como yo, que se habría dejado comprar baratamente en favor de no buscarse problemas en... el planeta de los simios, en la isla de los monos. Por eso quería ir a Gibraltar. Quizás, en otra ocasión, más adelante, vuelva a intentarlo. Merece la pena. Pero si el mundo se acabara ante, pues bueno, tampoco pasa nada, lo que me pierdo y lo que gano está en gran parte compensado.
+
+-----
+
+Nada, de verdad. Es un tener dentro nada, no poder remediarlo, y solo ver pasar el tiempo.
+
+Solo ver pasar el tiempo, cómo te envejece y te ignora. Sin ilusiones, ni ambiciones. Solo tiempo. Ambición de que se murieran todos de golpe y la tierra quedara vacía.
+
+-----
+
+No mirar al mundo. Y te meterás la hostia. Mirar al mundo. Y te meterán una paliza y luego te encerrarán.
+
+¿Qué sucede? Pues que Rivotril y Risperidona es como si... te pesara el cuerpo mucho. Y la mente tuviera un registro de memoria infinitamente pequeño. Por tanto, ni ejercicio físico, ni ejercicio mental. No puedes hacer nada. A veces, es mejor estar muerto. Supongo que esa es la lección. Que hay vidas que no vlaen la pena vivirse.
+
+Por lo demás. Os perdono a todos si no tengo que volver a cruzarme con ninguno, ni nadie parecido, ni nada parecido. Si no, os seguiré pesteando. Porque es por vosotros esto.
+
+Dejo colgado el proyecto de `democracia20` porque mi cabeza no da para más, simplemente, no da. No dea de sí. Con esta medicación, es imposible.
+
+Y ya está. Los palos altos lógicos son los de los lenguajes de programación, y yo traía un lenguaje deel más alto nivel. No tengo fuerzas ni para escribir en el teclado. Así que bueno, ya está. Si muero, muero. Y quiero morir, jurao. Gracias, hermano de mierda, no te ocurra una desgracia irreversible y lo lamentes con una depresión toda tu vida, o el resto de ella. Sí, soy muy majo, pero en tu afán por quitarle todo a una persona, pues... el karma no existe, ya lo sabemos. Pero me has jodido, me has jodido bien. Te puedes confitar tu ordenador de segunda mano, pijo asqueroso.
+
+-----
+
 Filantropía. Bueno, comienza el Gran Hermano, de nuevo. Laif. Oh, laif. No sé. No sé qué quieren, pero creo que conmigo no lo están haciendo bien. Y espero que no quieran lo que creo que quieren. Porque creo cosas. De creer. También de crear. Pero de que yo creer cosas sobre las cosas que hay. Qué quieren. No quiero mirarte, en verdad... lo preferiría. No mirarte.
 
 -----
