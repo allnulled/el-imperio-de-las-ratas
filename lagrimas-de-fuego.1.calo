@@ -1,0 +1,102 @@
+Ejecutable como documento HTML5
+    con autor allnulled
+    con nombre lagrimas-de-fuego
+    con versión 1
+<head>
+    <title></title>
+    <meta charset="utf8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        @font-face {
+            font-family: OldLondon;
+            src: url(OldLondon.ttf);
+        }
+        .titulo {
+            position: relative;
+            font-size: 50px;
+        }
+        .texto_de_titulo {
+            display: inline-block;
+            margin-top: 150px;
+            font-family: OldLondon;
+            text-align: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+        }
+        .imagen {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+        }
+        .separador_de_titulo {
+            padding-top: 30px;
+            padding-bottom: 30px;
+            color: #918ee5;
+            text-shadow: 0 0 2px black;
+        }
+        .titulo_saga {
+            color: #4d79ff;
+            text-shadow: 0 0 2px black;
+        }
+        .titulo_libro {
+            color: #5cd65c;
+            text-shadow: 0 0 2px black;
+        }
+    </style>
+</head>
+<body><div id="app"></div></body>.
+
+importo api nativa.
+
+creo PaginaDeInicio como un componente vue2 con nombre "PaginaDeInicio" con plantilla {
+  <div class="PaginaDeInicio Component">
+    <div class="titulo">
+        <img class="imagen" src="./lagrimas-de-fuego.png" />
+        <div class="texto_de_titulo">
+            <div class="titulo_saga">El imperio de las ratas</div>
+            <div class="separador_de_titulo">☣☣☣</div>
+            <div class="titulo_libro">
+              <div style="margin-bottom: 20px;">Parte 4:</div>
+              <div>🔥 Lágrimas de fuego 🔥</div>
+            </div>
+        </div>
+    </div>
+
+  </div>
+}.
+
+creo App como una aplicación vue2 con nombre "App" con rutas [{
+    propiedad path como "/".
+    propiedad name como "Home".
+    propiedad component como PaginaDeInicio.
+    propiedad props como {}.
+}] con traducciones {
+    propiedad es como {}.
+    propiedad en como {}.
+    propiedad ca como {}.
+} con plantilla {
+  <div class="App Component Castelog-app">
+    <router-view></router-view>
+  </div>
+} con estilos {
+    html {}
+    body {}
+    .Component {}
+    .App {}
+} con lógica {
+  retorno {
+    método data donde {
+      retorno {
+        
+      }.
+    }.
+    propiedad methods como {}.
+    propiedad watch como {}.
+    método beforeMount donde {}.
+    método mounted donde {}.
+  }.
+} montada en "#app".

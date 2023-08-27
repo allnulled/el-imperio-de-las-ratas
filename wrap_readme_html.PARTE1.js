@@ -16,7 +16,7 @@ const contenido_2 = `<!DOCTYPE html>
   }
   html {
     text-align: center;
-    background-color: #222;
+    background-color: #FFF;
   }
   body {
     display: inline-block;

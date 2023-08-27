@@ -63,6 +63,14 @@
 1. [Aclaraciones (4)](#aclaraciones-4)
 1. [Aclaraciones (5)](#aclaraciones-5)
 1. [Aclaraciones (6)](#aclaraciones-6)
+1. [Retomo](#retomo)
+1. [El sinsentido de la vida](#el-sinsentido-de-la-vida)
+1. [Continuar en la trinchera](#continuar-en-la-trinchera)
+1. [Comentarios (1)](#comentarios (1))
+1. [Comentarios (2)](#comentarios (2))
+1. [Comentarios (3)](#comentarios (3))
+1. [Tratamientos intrusivos](#tratamientos-intrusivos)
+1. [Dinero, endodrogas y antropomoción](#dinero-endodrogas-y-antropomoción)
 
 -----
 
@@ -1121,6 +1129,8 @@ Y ya está. Esto era. Fin, de momento.
 
 -----
 
+### Retomo
+
 Se retoma. Tras un lapso. De varias semanas, ciertamente.
 
 Seguimos en un paradigma donde el placer y el dolor retuercen la conducta humana, en una mezcla poco clara de emociones, relaciones mentales, empiria, recuerdos (palabras incusive, ahí nuestra brecha) y básicamente, reacciones frente a todas estas adversidades que no son el ser: sino una parte que el ser *siente*.
@@ -1147,6 +1157,8 @@ Ya está. De momento, esto.
 
 -----
 
+### El sinsentido de la vida
+
 El sentido de la vida no es el culto a ninguna piedra. De hecho, no creo que tenga mucho. Puedes escogerte uno, si te sirve.
 
 Un tipo, un algo, una cosa, se curró mucho todo este percal. O el proceso de generación de todo este percal, y ahora se le ha ido a esto.
@@ -1169,15 +1181,21 @@ Es duro, pero... es que no quiero conocerte. La verdad, ya me das mucho asco de 
 
 -----
 
+### Continuar en la trinchera
+
 Hablaría de lo que viví en la calle estos 10 días, nada, 10 días, 11. Suficientes para saber que es pura mierda todo, y que si no lo es, sistémicamente sí, legal y policialmente, sí. Pero es bastante... estaba haciendo un juego. El juego del último mono. Pero no sé. No sé. Me dan mucho asco todos, la verdad. Quiero seguirlo, pero vivir entre vosotros tiene menos sentido que unirse a los monos.
 
 Y aún y así, habrá que quedarse. Por costumbre, por aprendizaje simplemente. Pero ojalá os muriérais todos, de verdad, de corazón, todos vosotros muertos, y el gatito y yo tranquilos. Perdería el sentido, pero... al mismo tiempo, me sacaría la basura del hogar "mundo". Cosa difícil. De verdad, sois basura, de corazón, de verdad. Es para lo más que me da esta medicación decir. No me da para más. Simplemente, sois pura basura. Yo miro en las basuras. Pues tú eres la peor basura de todas. Y no quiero mirarte.
 
 -----
 
+### Comentarios (1)
+
 Filantropía. Bueno, comienza el Gran Hermano, de nuevo. Laif. Oh, laif. No sé. No sé qué quieren, pero creo que conmigo no lo están haciendo bien. Y espero que no quieran lo que creo que quieren. Porque creo cosas. De creer. También de crear. Pero de que yo creer cosas sobre las cosas que hay. Qué quieren. No quiero mirarte, en verdad... lo preferiría. No mirarte.
 
 -----
+
+### Comentarios (2)
 
 No mirar al mundo. Y te meterás la hostia. Mirar al mundo. Y te meterán una paliza y luego te encerrarán.
 
@@ -1191,11 +1209,15 @@ Y ya está. Los palos altos lógicos son los de los lenguajes de programación, 
 
 -----
 
+### Comentarios (3)
+
 Nada, de verdad. Es un tener dentro nada, no poder remediarlo, y solo ver pasar el tiempo.
 
 Solo ver pasar el tiempo, cómo te envejece y te ignora. Sin ilusiones, ni ambiciones. Solo tiempo. Ambición de que se murieran todos de golpe y la tierra quedara vacía.
 
 -----
+
+### Tratamientos intrusivos
 
 Las pastillas van mengüando su efecto a medida que las sigo tomando.
 
@@ -1209,11 +1231,13 @@ Pero no por ser mi hermano. Es por ser otro como yo, que se habría dejado compr
 
 -----
 
+### Dinero, endodrogas y antropomoción
+
 He estado unos días pensando... y quería decir varias cosas. La última es esta. A ver...
 
 Mmmm... yo he vivido sin la motivación del dinero mucho tiempo. Pero soy consciente de algo sobre el dinero, gracias a que algunas veces, el ser humano sí me ha comprado con dinero. Y es esto: *«el humano bate récords por el dinero»*. Hace cosas que sin el dinero, y ese juego, no podría. Pero también tiene otra parte: *«el dinero conduce al ser humano»*. Lo determina conductualmente. Por eso, yo hago cosas que la gente que obtiene dinero para el sistema de recompensa nervioso, no hace. Me paso todo el libro destacando el segundo punto. Pero... ¿y el primero? Pues esa piedra, un Manhatan, lo hace el humano por dinero. Ayer es que vi a unos cuantos, eran... 12 a lo mejor, 15 a lo máximo, haciendo un cacho de carretera. Ayudados de máquinas. Pero te viene a la mente las pirámides de Egipto, la muralla China, u otras más, la Moreneta de Montserrat que la subieron con cuerdas también. Están locos. Baten récords los colgaos. Yo también intento batir récords. Pero siempre hay otro que llega a más, siempre. Norma. Y si no, se ve claro que es porque te dejan ser el más reconocido, o el primero sin ser reconocido, como es mi caso y Castelog, por ejemplo. Pero ellos baten otros récords.
 
-Lo veo también porque hacer una mierda de aplicación, servidor y cliente, que sirva para hacer votaciones, supone un reto éepico para mí. Pero tienes las encuestas de Google, las de Facebook, en fin. Es una funcionalidad bastante típica. Otra cosa es ir y juntar eso con la «democracia protocolaria» que tenemos hoy, donde todo parece un juego de hacer las tonterías más afines a los tontos. Espera un momento. Esta la resaltaría: **hacer las tonterías más afines a los tontos, más parecidas al nivel de tontuna**. Yo lo abrevio con: *seguir ciertos protocolos*. Pero ahora veo la igualdad: un algoritmo definido en el ámbito de las conductas sociales, se definiría así, como «protocolo social». Es código transcrito a lenguaje natural. Donde te dicen: haz esto así, esto hecho así significa tal, asá, cuál, no hagas esto, etcétera. Todo eso tiene más de un concepto correlativo en el mundo de la programación.
+Lo veo también porque hacer una mierda de aplicación, servidor y cliente, que sirva para hacer votaciones, supone un reto épico para mí. Pero tienes las encuestas de Google, las de Facebook, en fin. Es una funcionalidad bastante típica. Otra cosa es ir y juntar eso con la «democracia protocolaria» que tenemos hoy, donde todo parece un juego de hacer las tonterías más afines a los tontos. Espera un momento. Esta la resaltaría: **hacer las tonterías más afines a los tontos, más parecidas al nivel de tontuna**. Yo lo abrevio con: *seguir ciertos protocolos*. Pero ahora veo la igualdad: un algoritmo definido en el ámbito de las conductas sociales, se definiría así, como «protocolo social». Es código transcrito a lenguaje natural. Donde te dicen: haz esto así, esto hecho así significa tal, asá, cuál, no hagas esto, etcétera. Todo eso tiene más de un concepto correlativo en el mundo de la programación.
 
 También lo he resumido como: *cercos*. Vallas. Caminos, sendas, posibilidades, decisiones. Muros. Paredes. Celdas. Barrotes. Caminos, recorridos. Mmm... protocolos conductuales. Formas de comportarse. Cercos sociales. Cercos culturales. Cercos inconscientes de la conducta humana común. Lenguaje social.
 
@@ -1233,7 +1257,7 @@ Encerramiento.
 
 Tengo miedo de que me vuelvan a encerrar. He sentido cosas en la calle, cansancio, hartazgo, miedo, dolor. Pero el encerramiento... es un sentimiento muy claustrofóbico. Luego se te puede ir aminorando. Hacer más pequeño. Pero en su esplendor, la calle, al menos de este país, parece menos. Aunque encerrado es protegido también. Al principio, lo agradeces, si vienes de la calle de andar y andar. Y andar. Los pies, pensaba que los perdería. De tanto andar, y el calor, y el calzado, no sé.
 
-No he llevado al extremo extremo esa situación. Pero tampoco quiero, ya la he llevado más lejos que la gran mayoría. Suficiente. Aunque algo de mí lo sigue viendo como un juego por explotar. Un juego por sacarle más partido. Pero caminar por caminar... bueno, yo iba a ver monos. Monos en no-encerramiento, royo zoo o jaula. PEro bueno, no creo que les dejen cruzar la frontera. Es que quiero ir, para verlo bien. Pero que si quiero de verdad, pillo la RENFE de polizón los intentos que se presten hasta cerca, me bajo y los veo. No hago una cruzada épica ahí dejándome los pies y todo. He vivido cosas, y he aprendido cosas.
+No he llevado al extremo extremo esa situación. Pero tampoco quiero, ya la he llevado más lejos que la gran mayoría. Suficiente. Aunque algo de mí lo sigue viendo como un juego por explotar. Un juego por sacarle más partido. Pero caminar por caminar... bueno, yo iba a ver monos. Monos en no-encerramiento, royo zoo o jaula. Pero bueno, no creo que les dejen cruzar la frontera. Es que quiero ir, para verlo bien. Pero que si quiero de verdad, pillo la RENFE de polizón los intentos que se presten hasta cerca, me bajo y los veo. No hago una cruzada épica ahí dejándome los pies y todo. He vivido cosas, y he aprendido cosas.
 
 Sí. He vivido cosas y aprendido cosas. Pero... no digo nada porque no quiero hacer un manual del pobre. Creo que es mágico cómo uno se conoce en distintas situaciones. Yo, por ejemplo, usaba mucho la palabra «SUPERVIVENCIA». «SOBREVIVE». No robes, no pidas. Solo «SOBREVIVE». Y si eso te lleva a pedir o en un momento dado a comer de una tienda, hazlo. Pero no por gula, que en casi todas las veces, de normal, sería la causa. Por hambre. Por debilidad. «SUPERVIVENCIA». Si hace falta gritar, gritas. Aunque no hace falta. Y si has de morir, muere. Pero intenta «SOBREVIVIR». Tienes comida, ok, pues dosifícala. Siéntela. Gestiónatela para que el cuerpo note la diferencia, agradezca de verdad la «ENERGÍA» que introeduces para «SEGUIR SOBREVIVIENDO». Dormir, igual. No tienes sueño, muy bien, disfruta de tu no-encerramiento. Tienes sueño, pues «SOBREVIVE» y busca un sitio idóneo. Y así con todo. Temperatura, músculos, consciencia, hidratación, humedad, incluso ánimo. Gestiónate el ánimo. En lo malo, úsalo como fuente de energía, o razones para reflexionar. En lo bueno, atesóralo para la siguiente ocasión donde tengas que tirar de ese recuerdo. No es extremo, porque extremo hubiera sido preferir que venga una ambulancia y llorar para que te lleven a tu casa. Pero la conclusión sí que fue un: bueno, yo me retiro, y que pete lo que pete, me voy a casa. Petó un encerramiento. Pues bueno. De unas dos semanas. Mal. Lo pasé mal. Y recuerdo peor el encerramiento, de decir: hay una valla, y es para no dejarme salir. Hay unas paredes, y unos cristales, y unas personas en última instancia. Y como me dé por salir, esas personas van a reducirme y a usar la fuerza y las drogas. Es decir... estoy encerrado de verdad. Y vengo de que cogía y mem iba a caminar y me alejaba de un sitio mucho en unas horas. Vengo y sufro este contraste.
 
@@ -1252,9 +1276,6 @@ Por eso, tranquilidad. Malo no he hecho yo nada. Saber dónde estar para comer. 
 Pues eso. No es mi récord hacérselo entender. Quisiera. Para perderme en mis vicios. Interrumpidos por el protocolo. No creo que entre en el juego dopamínico del dinero. Es todo. Puede hacer ilusión. Pero saber de la mierda que causa, te la mata la ilusión. Y al final, el tirado marginado pobre-extremo, te vuelves tú. Aunque haya más, tú. Hay más, sí, pero tú. Por querer hacer las cosas demasiado bien. No demasiado mal. No demasiado «beh, venga, así y ya está». No. Por querer contarlo todo. Opinión, recursos, conocimientos. Todo números. Por eso, te quedas fuera al final. No es por eso, dirán ellos. Pero sí, es por eso, es lo que te ha llevado a un conflicto de protocolos e intenciones. Y caes en la anomia. Y bueno. Bueno, es un ataque combinado guapo, entre genética y entorno te pegan una buena paliza. Por eso, tranquilidad. Tranquilidad, encerramiento, si no haces nada mal, no debería haberlo. Aún sin dinero. Pero bueno, no es ley tampoco, no creo. Porque hay que conocerse los protocolos, y no conocemos. Donde fueres, haz lo que los protocolos que has visto llevan. Creo. Y así, nos conducen. Sí, récords. Es cierto. Pero eres el bólido, no el conductor.
 
 Nada nuevo para el resto. Pero bueno, sigamos, desde aquí. No se nos da muy bien esto ahora mismo. Dejémoslo. Pero dopamina y dinero, récords y conducción voluntaria.
-
-----
-
 
 
 
