@@ -5,7 +5,7 @@
 - [Parte 1: Conociendo a un granjero](./README.PARTE1.md)
 - [Parte 2: Las pirámides, los cercos, el oro y la mierda](./README.PARTE2.md)
 - [Parte 3: Los palos naturales más altos](./README.PARTE3.md)
-- [Parte 3: Lágrimas de fuego](./README.PARTE4.md)
+- [Parte 4: Lágrimas de fuego](./README.PARTE4.md)
 
 ### Sinopsis
 
