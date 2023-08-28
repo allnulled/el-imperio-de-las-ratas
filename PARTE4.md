@@ -6,11 +6,12 @@
 
 #### Índice
 
-1. [Moción y emoción](#moción-y-emoción)
+1. [Moción y emoción (I)](#moción-y-emoción)
+1. [Moción y emoción (II)](#moción-y-emoción)
 
 ----
 
-### Moción y emoción
+### Moción y emoción (I)
 
 Este libro quería dedicarlo a la exploración racional de las emociones. Pero no sé qué saldrá, la verdad. De todos modos, primero, hay que decir algunas cosas para situar la reflexión.
 
@@ -40,6 +41,34 @@ Yo, como yonki, también quiero enfatizar lo bueno de las emociones sin más. Es
 
 Ya está. Me cuesta mucho entrar en todo esto intentando pisar donde ya tengo algo de experiencia demostrándome certeza. Rápidamente podría pisar terreno pantanoso, donde aventuro cosas que pueden cumplirse a veces, pero no siempre. De hecho, seguro que ya lo he hecho.
 
-Pero, en última instancia, y hablando con un publo tomado por la yonkicidad del dinero (ya lo hemos hablado en el último apartado del libro anterior), vale la pena resaltar que las emociones tienen una utilidad racional. Y conviene comprenderla para que no te engañen, porque mucho es engañarte con eso, la televisión son expertos, las religiones y sectas son estrellas, y demás. Ahora, paro de escribir, por prudencia.
+Pero, en última instancia, y hablando con un pueblo tomado por la yonkicidad del dinero (ya lo hemos hablado en el último apartado del libro anterior), vale la pena resaltar que las emociones tienen una utilidad racional. Y conviene comprenderla para que no te engañen, porque mucho es engañarte con eso, la televisión son expertos, las religiones y sectas son estrellas, y demás. Ahora, paro de escribir, por prudencia.
 
 ----
+
+### Moción y emoción (II)
+
+El **miedo**, por ejemplo, puede ser un instrumento muy útil para salir corriendo en ciertos casos. También para quedarse paralizado. La **prudencia**, que sería un sucedáneo ligero del miedo, también puede resultar útil en muchos casos. La **satisfacción** es una sensación, ni siquiera emoción, nos indica que hemos hecho algo bien o que estamos obteniendo algo bueno. El **orgullo** puede tener distintas acepciones, una puede ser un signo de identidad y al mismo tiempo, satisfacción. Identidad satisfactoria. También orgullo puede usarse como preventor de actos altruistas, generosos o simplemente bondadosos. El **altruismo** o **generosidad** sirven para dar de más de lo compensatorio. La **bondad** sirve para actuar conforme a unas normas morales o éticas. 
+
+Toda emoción puede desmenuzarse en más palabras. Pero, sobre todo, consiste en desembocar en conductas concretas que reportan un patrón homogéneo del movimiento.
+
+Voy a ir apuntando una lista:
+
+  - Decepción
+  - Apatía
+  - Desilusión
+  - Desprecio
+  - Rechazo
+  - Aceptación
+  - Ilusión
+  - Motivación
+  - Tristeza
+  - Desaprobación
+  - Autoestima
+  - Ira
+  - Confusión
+  - Somnolencia
+  - Aburrimiento
+  - Diversión
+  - Tranquilidad
+  - Plenitud
+  - ...
