@@ -1,8 +1,7 @@
 ![Portada](./portada-lagrimas-de-fuego.png)
 
 
-
-----
+-----
 
 #### Índice
 
@@ -10,7 +9,8 @@
 1. [Moción y emoción (2)](#moción-y-emoción)
 1. [Razón y emoción](#razón-y-emoción)
 
-----
+
+-----
 
 ### Moción y emoción (1)
 
@@ -44,7 +44,9 @@ Ya está. Me cuesta mucho entrar en todo esto intentando pisar donde ya tengo al
 
 Pero, en última instancia, y hablando con un pueblo tomado por la yonkicidad del dinero (ya lo hemos hablado en el último apartado del libro anterior), vale la pena resaltar que las emociones tienen una utilidad racional. Y conviene comprenderla para que no te engañen, porque mucho es engañarte con eso, la televisión son expertos, las religiones y sectas son estrellas, y demás. Ahora, paro de escribir, por prudencia.
 
-----
+
+
+-----
 
 ### Moción y emoción (2)
 
@@ -74,7 +76,9 @@ Voy a ir apuntando una lista:
   - Plenitud
   - ...
 
-----
+
+
+-----
 
 ### Razón antes que emoción
 
@@ -112,7 +116,11 @@ Y digo "salvable" porque si has estado en encerramiento, lo sabes. Y también me
 
 Pero, sobre las emociones, decir que entender el... la *utilidad primitiva* de cada emoción te puede ayudar mucho a entender lo que sucede en tu entorno, y en algunos casos, hasta en uno mismo.
 
-----
+
+
+-----
+
+### La ilusión rota
 
 Llevo días pensando... he tenido mucho tiempo. Tiempo para pensar. Escribir software. Pero nada que me haga ganar dinero, o marihuana al menos, o tabaco por mis propios medios y no como limosneo. Y creo que todavía tengo que pensar más.
 
@@ -134,3 +142,28 @@ Mucho asco. No quiero escribir estas cosas. Pero me temo que esto es lo que hay 
 
 Pero el mundo rebosa enajenación mental. Y se podrían ver a los altos rangos como... magos de la enajenación mental masiva. Yo... yo no quiero vivir aquí. Te lo digo en serio, ordenador: llevo mucho tiempo, y no hay nada, ilusiones muertas. Una matanza de ilusiones. Y amenazan con venir más.
 
+-----
+
+### La ruptura ilusiva
+
+Efectivamente, me niegan las ayudas. Ahora sí que no tengo forma de obtener dinero de ninguna de las maneras. Y por si tú fueras yo en otra vida, te comento: he estado años para construir varios proyectos de software que me permitirían hacer cosas que he echado en falta tener disponibles técnicamente para terminar (o empezar, te diría) proyectos reales de software. El [`castelog`](https://github.com/allnulled/castelog) me permite trabajar en castellano, que eso para la mente es afianzar cada sentencia lógica de tu programa. Y el [`restero`](https://github.com/allnulled/restero) me permite construir bases de datos y especificar cómo quiero que el servidor web gestione las peticiones CRUD (Create Read Update Delete) de ésta. Le puedo poner decoradores a las tablas y columnas para hacer que una tabla solo sea accesible para algunos usuarios que reúnen unos permisos, o modificable. Cosas que ya deberían estar hechas. Pues llevo años. Y no por ello me dan trabajo. De hecho, recibo muchas menos llamadas de procesos que cuando empecé. Hace un tiempo que dejé de intentarlo, porque caí en el solipsismo. Piensa que llevo sin hablar de temas existenciales con nadie desde... pues no lo sé, no sé desde cuándo. Mucho. Estoy atrapado en una vida. Y quisiera salirme, si te digo la verdad. He llegado a cierto techo, no solo tecnológico: social, económico, emocional, físico. He llegado a bastantes techos. Y no se puede hacer más, tampoco los locales me dan trabajo. Y lo demás es una lucha absurda por premios sucios. Lo que quiero decir es: lo he hecho todo, he hecho más de lo que se podía esperar de alguien por no enfrentarse al *status quo* y sus guardianes-mensajeros, los políticos. Lo he hecho, no todo, he hecho más. Llevo 220 proyectos de software. Y solo me contratarían empresas con el fin de llevarme al extremo. Estoy a 0€ otra vez. Tengo 40€ aprox. que me voy a fundir en porros y tabaco. Mi mejor mano es seguir un tratamiento psiquiátrico, farmacológico. Consiste en antipsicóticos, que son pastillas que te dejan medio atontado. Y no lo digo por una paga, la paga no es para mí. La paga de pobre me la han rechazado. Y no tengo ingresos. Pues así va la cosa.
+
+Vivo en una trampa. No sé si me habré explicado, pero qué me importa. Hasta ahora, nadie me ha entendido. Se ha hecho una idea, a veces algo romántica, de lo que es mi vida. Y con eso se permiten juzgarla. Yo estoy hablando de matemáticas básicas aplicadas a política y economía. Pues ellos creen que soy un corsario anarquista que navega en un barco hundido a contra sistema. Y no puedo conseguir transmitirles nada más. Tampoco estoy bien para hacer mucho más, no te voy a engañar. Vivo una vida de preso (social, tecnológico, político, económico, etc.) mientras me planteo si estoy robando la comida que como, el agua que bebo y con la que me lavo, la electricidad que uso para escribir estas líneas, o incluso el aire que respiro. ¿Estaré robándole a alguien? Creo que el Imperio de las Ratas es el mejor título. Porque no son ladrones, solo ratas miserables que con el dinero se crecen. ¿Y yo? Yo no soy nadie. No soy nadie en el mundo de la economía, porque si entro  en una tienda sería para preguntar algo, o para robar, porque comprar no tengo con qué. 
+
+Es... he conseguido lo que me propuse: software. Pero nada más: ni trabajo, ni dinero, ni respeto, ni derechos, ni visibilidad, nada. Solo eso: software. Igual se ofendió Dios/Diablo cuando rechazaba la vida por acabar proyectos de software que ni siquiera me ataban al dinero. Software por software. No le gustó, creo. Pero a mí tampoco me gusta que me estén tocando los cojones todos los días con que debo dinero por vivir. Un techo, un agua, una luz, un gas. Comida. Claro que son recursos limitados, pero vengo denunciando que el juego este de la escasez es informativa principalmente. Es decir: no tenemos ni puta idea de lo que hay, de cuánto hay, de dónde está, de quién lo tiene, de qué hace con ello, de qué se necesita, de qué se desea. Aquí es dinero, y ale, a correr. Yo no funciono bien en un sistema donde jugamos a ciegas y encima por lo más tirado.
+
+No sé. Igual no lo explico bien. Igual parece que pido mucho. Yo sólo sé que al acabar el día, yo ni empobrezco ni enriquezco, porque no consumo, porque mi vida es eso, una cosa barata que está por ahí flotando satelitalmente a lo que sería la vida de las gentes. No quiero saber nada, evidentemente, de las personas, porque son ellas las que me han metido en esta puta trampa infecta. Es decir, benditos animales, cuyo juego es menos sádico: te mato y ya está, no te torturo, no te hago sufrir por sufrir, te mato y te como, e incluso te comparto luego. Pero no te hago sufrir. Pues ellos sí, funcionan así. Como si tuvieras que llegar a una altura que ponen ellos a medida y como les da la puta gana, porque te repito que lo he conseguido, y no me darán empleo por ello. ¿Crédito? Ahora tendría que escribir proyectos de ejemplo, softwares para:
+
+  - Bibliotecas
+  - Hospitales
+  - Restaurantes
+  - Supermercados
+  - Talleres
+  - Empresas en sentido amplio
+  - Tiendas
+
+Y cuando llevara algo de rodaje con el framework (hablo de [`restero`](https://github.com/allnulled/restero)), entonces ponerme con la democracia directa y la economía algorítmica. Pero no hay premio en ningún caso. No apalabrado. Hay... concesiones fortuitas y aleatorias. No derechos. Mi derecho es permanecer callado, o aviolentarme en un momento dado, para terminar en encerramiento por años, donde se supone sí aprenderé. Pero yo no quiero, porque yo no soy el que hace eso, eso lo hacen ellos.
+
+No sé, no tengo ganas ni de escribir. Otro día.
+
+Pero es vivir en un mundo donde no te quiere de otra forma más que vulnerable. Y yo no tengo actitud para ello. La mejor actitud es desprenderme de todo lo social: esa es mi mejor mano. Y ni siquiera llega a mano eso.
