@@ -1170,7 +1170,7 @@ Luego hay otro tipo, aunque con grandes sospechas de que de haberlo, es el mismo
 
 Y puede que no sea ni un tipo. De hecho, tipo gana a cosa.
 
-Paréntesis. Me están medicando, claro. Porque volví a mi casa. Bueno, al lugar donde yo habitualmente vivía. Por eso, y por no enfrentarme a mi hermano, hoy, estoy bajo medicación, y para la policía, siempre ya habré pasado por un psiquiátrico. Por no enfrentarme a que mi hermano pase unas vacaciones entrañables aquí, y no un poco más allí. Por unos derechos de mierda, aprovechados por un francés, dicho de otra forma.
+Paréntesis. Me están medicando, claro. Porque volví a mi casa. Bueno, al lugar donde yo habitualmente vivía. Por eso. Por unos derechos de mierda en un país de mierda.
 
 Es bastante asqueroso todo. A veces lo agradezco, pienso que es una medicación bastante mágica. Otras, me veo tan mentalmente reducido, que no lo puedo perdonar. Pero sí, no le diría nada.
 
@@ -1208,7 +1208,7 @@ Por lo demás. Os perdono a todos si no tengo que volver a cruzarme con ninguno,
 
 Dejo colgado el proyecto de `democracia20` porque mi cabeza no da para más, simplemente, no da. No dea de sí. Con esta medicación, es imposible.
 
-Y ya está. Los palos altos lógicos son los de los lenguajes de programación, y yo traía un lenguaje deel más alto nivel. No tengo fuerzas ni para escribir en el teclado. Así que bueno, ya está. Si muero, muero. Y quiero morir, jurao. Gracias, hermano de mierda, no te ocurra una desgracia irreversible y lo lamentes con una depresión toda tu vida, o el resto de ella. Sí, soy muy majo, pero en tu afán por quitarle todo a una persona, pues... el karma no existe, ya lo sabemos. Pero me has jodido, me has jodido bien. Te puedes confitar tu ordenador de segunda mano, pijo asqueroso.
+Y ya está. Los palos altos lógicos son los de los lenguajes de programación, y yo traía un lenguaje del más alto nivel. No tengo fuerzas ni para escribir en el teclado. Así que bueno, ya está. Si muero, muero. Y quiero morir, jurao.
 
 -----
 
@@ -1224,13 +1224,13 @@ Solo ver pasar el tiempo, cómo te envejece y te ignora. Sin ilusiones, ni ambic
 
 Las pastillas van mengüando su efecto a medida que las sigo tomando.
 
-No te odio, hermano. No te deseo ningún mal. Ni a ti ni a nadie cercano a ti. Solo que me da bastante coraje cuando veo que soy incapaz. Pienso, por las pastillas. Pero la verdad es que soy un adicto a la programación, y fuera de ella, el mundo también se queda sin su lugar. Porque el mundo es un programa. Está programado. Por eso, o programador, o enfermo mental de por vida. Y las empresas ya han hablado. No creo que le encuentre la gracia a ninguna otra cosa. He hecho lo más... divertido que se me ocurre. Y es tirarse a la calle a ver mundo, montañas, playas, paisajes. Vivir la calle. 10 días, cierto. Pero suficientes para destrozarme los pies y aceptar como derrota un ingreso en una institución mental. Era lo más parecido a un videojuego, y si fuera bueno programando, que no lo soy, ojalá un día pudiera hacer un juego de ello. No con gráficos, sólo la lógica de cómo sobrevivir. Sin contactos. Sin teléfono. Sin dinero. Y sin robar, más que algunas galletas en algún supermercado. Me gustaría poder hacerlo, porque hubo momentos donde me sentí agradecido de haber salido de la prisión del "fijomundo". Pero claro, nada es lo que parece. El vagabundo tiene también su prisión, su lógica intransgredible. Y si fallas, te meten en una institución mental, donde pierdes gran parte de tu capacidad física, y mental.
+Me da bastante coraje cuando veo que soy incapaz. Pienso, por las pastillas. Pero la verdad es que soy un adicto a la programación, y fuera de ella, el mundo también se queda sin su lugar. Porque el mundo es un programa. Está programado. Por eso, y por todo lo que le he dedicado y logrado, o programador, o enfermo mental de por vida. Y las empresas ya han hablado. No creo que le encuentre la gracia a ninguna otra cosa. He hecho lo más... divertido que se me ocurre. Y es tirarse a la calle a ver mundo, montañas, playas, paisajes. Vivir la calle. 10 días, cierto. Pero suficientes para destrozarme los pies y aceptar como derrota un ingreso en una institución mental. Era lo más parecido a un videojuego, y si fuera bueno programando, que no lo soy, ojalá un día pudiera hacer un juego de ello. No con gráficos, sólo la lógica de cómo sobrevivir. Sin contactos. Sin teléfono. Sin dinero. Y sin robar, más que algunas galletas en algún supermercado. Me gustaría poder hacerlo, porque hubo momentos donde me sentí agradecido de haber salido de la prisión del "fijomundo". Pero claro, nada es lo que parece. El vagabundo tiene también su prisión, su lógica intransgredible. Y si fallas, te meten en una institución mental, donde pierdes gran parte de tu capacidad física, y mental.
 
 Y eso, da rabia. Porque yo no firmaba para eso. Y efectivamente, me hicieron eso. Y aún me sigo tomando las pastillas, aún siguen haciéndome eso. Con la falsa promesa de que algún día, a lo mejor, me diagnostican, y puedo optar por una paga de mierda, que me la fundiría en porros, lo digo ya aquí: esa paga irá para porros, lo más probable.
 
 Por ahora no, por ahora me olvido. Me olvido de todo. Creo que para eso son estas pastillas. No te dejan retener memoria. Es para que olvides. Te olvidas hasta de gestionar la saliva. Y se te cae la baba. En fin. Es una aventura, pero no es agradable, y no hace gracia desde aquí.
 
-Pero no por ser mi hermano. Es por ser otro como yo, que se habría dejado comprar baratamente en favor de no buscarse problemas en... el planeta de los simios, en la isla de los monos. Por eso quería ir a Gibraltar. Quizás, en otra ocasión, más adelante, vuelva a intentarlo. Merece la pena. Pero si el mundo se acabara ante, pues bueno, tampoco pasa nada, lo que me pierdo y lo que gano está en gran parte compensado.
+Cualquiera en este mundo se habría dejado comprar baratamente en favor de no buscarse problemas en... el planeta de los simios, en la isla de los monos. Por eso quería ir a Gibraltar. Quizás, en otra ocasión, más adelante, vuelva a intentarlo. Merece la pena. Pero si el mundo se acabara ante, pues bueno, tampoco pasa nada, lo que me pierdo y lo que gano está en gran parte compensado.
 
 -----
 
